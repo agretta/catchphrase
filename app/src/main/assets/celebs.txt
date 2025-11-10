@@ -1,0 +1,328 @@
+Tom Hanks
+Leonardo DiCaprio
+Brad Pitt
+Johnny Depp
+Robert De Niro
+Al Pacino
+Morgan Freeman
+Denzel Washington
+Samuel L. Jackson
+Will Smith
+Tom Cruise
+Keanu Reeves
+Matt Damon
+Ben Affleck
+Christian Bale
+Ryan Gosling
+Ryan Reynolds
+Hugh Jackman
+Chris Hemsworth
+Chris Evans
+Chris Pratt
+Mark Ruffalo
+Jeremy Renner
+Paul Rudd
+Jake Gyllenhaal
+Joaquin Phoenix
+Heath Ledger
+Michael B. Jordan
+Idris Elba
+Daniel Craig
+Pierce Brosnan
+Sean Connery
+George Clooney
+Harrison Ford
+Bruce Willis
+Sylvester Stallone
+Arnold Schwarzenegger
+Jackie Chan
+Jet Li
+Donnie Yen
+Jason Statham
+Vin Diesel
+Dwayne Johnson
+John Cena
+Dave Bautista
+Jason Momoa
+Henry Cavill
+Ben Kingsley
+Gary Oldman
+Anthony Hopkins
+Ian McKellen
+Patrick Stewart
+James McAvoy
+Michael Fassbender
+Ewan McGregor
+Liam Neeson
+Colin Farrell
+Cillian Murphy
+Tom Hardy
+Robert Pattinson
+Adam Driver
+Oscar Isaac
+Pedro Pascal
+Diego Luna
+Andrew Garfield
+Tobey Maguire
+Benedict Cumberbatch
+Daniel Radcliffe
+Rupert Grint
+Alan Rickman
+Ralph Fiennes
+Jude Law
+Martin Freeman
+Simon Pegg
+Nick Frost
+Steve Carell
+Jim Carrey
+Robin Williams
+Bill Murray
+Eddie Murphy
+Adam Sandler
+Chris Rock
+Kevin Hart
+Terry Crews
+John Krasinski
+Donald Glover
+Childish Gambino
+Jamie Foxx
+Eminem
+Dr. Dre
+Snoop Dogg
+Kanye West
+Jay-Z
+Beyoncé
+Rihanna
+Ariana Grande
+Selena Gomez
+Taylor Swift
+Billie Eilish
+Lana Del Rey
+Lady Gaga
+Dua Lipa
+Katy Perry
+Britney Spears
+Christina Aguilera
+Jennifer Lopez
+Shakira
+Miley Cyrus
+Demi Lovato
+Nicki Minaj
+Cardi B
+Doja Cat
+Megan Thee Stallion
+Post Malone
+Drake
+The Weeknd
+Justin Bieber
+Ed Sheeran
+Harry Styles
+Niall Horan
+Zayn Malik
+Louis Tomlinson
+Liam Payne
+Shawn Mendes
+Camila Cabello
+Bruno Mars
+Charlie Puth
+Sam Smith
+Adele
+Lorde
+Halsey
+Sia
+Kesha
+Pink
+Kelly Clarkson
+Celine Dion
+Mariah Carey
+Whitney Houston
+Madonna
+Cher
+Elton John
+David Bowie
+Prince
+Michael Jackson
+Janet Jackson
+George Michael
+Freddie Mercury
+Paul McCartney
+John Lennon
+Ringo Starr
+George Harrison
+Mick Jagger
+Keith Richards
+David Gilmour
+Roger Waters
+Ozzy Osbourne
+Bruce Dickinson
+James Hetfield
+Dave Grohl
+Kurt Cobain
+Chris Cornell
+Eddie Vedder
+Bono
+Sting
+Phil Collins
+Billy Joel
+Bob Dylan
+Neil Young
+Eric Clapton
+Stevie Wonder
+Aretha Franklin
+Diana Ross
+Tina Turner
+Beyoncé
+Alicia Keys
+Mary J. Blige
+Lauryn Hill
+Erykah Badu
+Sade
+Frank Ocean
+Tyler, the Creator
+Kendrick Lamar
+J. Cole
+Travis Scott
+Lil Nas X
+Lil Wayne
+50 Cent
+Ice Cube
+Ice-T
+Queen Latifah
+Missy Elliott
+Lizzo
+SZA
+Anderson .Paak
+Rosalía
+Bad Bunny
+J Balvin
+Maluma
+Karol G
+Anitta
+Shakira
+Jennifer Lopez
+Pitbull
+Daddy Yankee
+Ozuna
+Enrique Iglesias
+Ricky Martin
+Gloria Estefan
+Celine Dion
+Barbra Streisand
+Bette Midler
+Dolly Parton
+Reba McEntire
+Shania Twain
+Carrie Underwood
+Miranda Lambert
+Kacey Musgraves
+Luke Bryan
+Blake Shelton
+Jason Aldean
+Chris Stapleton
+Morgan Wallen
+Zach Bryan
+Garth Brooks
+Tim McGraw
+Faith Hill
+Keith Urban
+Nicole Kidman
+Reese Witherspoon
+Julia Roberts
+Sandra Bullock
+Anne Hathaway
+Meryl Streep
+Helen Mirren
+Cate Blanchett
+Emma Thompson
+Natalie Portman
+Scarlett Johansson
+Florence Pugh
+Margot Robbie
+Jennifer Lawrence
+Zendaya
+Emma Stone
+Emma Watson
+Kristen Stewart
+Dakota Johnson
+Millie Bobby Brown
+Winona Ryder
+Sigourney Weaver
+Carrie Fisher
+Daisy Ridley
+Keira Knightley
+Rachel McAdams
+Emily Blunt
+Amy Adams
+Jessica Chastain
+Julianne Moore
+Charlize Theron
+Halle Berry
+Angelina Jolie
+Monica Bellucci
+Penélope Cruz
+Salma Hayek
+Eva Longoria
+Jennifer Aniston
+Courteney Cox
+Lisa Kudrow
+Kaley Cuoco
+Mayim Bialik
+Melissa Rauch
+Zooey Deschanel
+Mindy Kaling
+Amy Poehler
+Tina Fey
+Kristen Wiig
+Kate McKinnon
+Aubrey Plaza
+Elizabeth Olsen
+Mary-Kate Olsen
+Ashley Olsen
+Blake Lively
+Leighton Meester
+Lana Condor
+Ana de Armas
+America Ferrera
+Gina Rodriguez
+Sofía Vergara
+Eiza González
+Gal Gadot
+Brie Larson
+Hailee Steinfeld
+Sydney Sweeney
+Florence Pugh
+Jennifer Garner
+Lucy Liu
+Awkwafina
+Sandra Oh
+Michelle Yeoh
+Constance Wu
+Gemma Chan
+Chloë Grace Moretz
+Zoe Saldana
+Rosario Dawson
+Viola Davis
+Octavia Spencer
+Taraji P. Henson
+Regina King
+Whoopi Goldberg
+Oprah Winfrey
+Ellen DeGeneres
+Jimmy Fallon
+Jimmy Kimmel
+Stephen Colbert
+James Corden
+Trevor Noah
+Jon Stewart
+Conan O’Brien
+David Letterman
+Jay Leno
+Howard Stern
+Gordon Ramsay
+Jamie Oliver
+Martha Stewart
+Guy Fieri
+Anthony Bourdain
+Nigella Lawson
+Bobby Flay
+Rachael Ray

@@ -1,0 +1,308 @@
+Julius Caesar
+Augustus Caesar
+Alexander the Great
+Genghis Khan
+Kublai Khan
+Attila the Hun
+Charlemagne
+William the Conqueror
+Joan of Arc
+Richard the Lionheart
+Henry VIII
+Elizabeth I
+Mary, Queen of Scots
+Louis XIV
+Louis XVI
+Napoleon Bonaparte
+Marie Antoinette
+George Washington
+Thomas Jefferson
+Benjamin Franklin
+John Adams
+James Madison
+Abraham Lincoln
+Ulysses S. Grant
+Theodore Roosevelt
+Franklin D. Roosevelt
+Harry S. Truman
+Dwight D. Eisenhower
+John F. Kennedy
+Richard Nixon
+Ronald Reagan
+Barack Obama
+Nelson Mandela
+Mahatma Gandhi
+Jawaharlal Nehru
+Indira Gandhi
+Winston Churchill
+Margaret Thatcher
+Joseph Stalin
+Vladimir Lenin
+Leon Trotsky
+Karl Marx
+Friedrich Engels
+Adolf Hitler
+Benito Mussolini
+Francisco Franco
+Mao Zedong
+Chiang Kai-shek
+Sun Yat-sen
+Ho Chi Minh
+Kim Il-sung
+Kim Jong Il
+Kim Jong Un
+Fidel Castro
+Che Guevara
+Simon Bolívar
+José de San Martín
+Pancho Villa
+Emiliano Zapata
+Mustafa Kemal Atatürk
+Suleiman the Magnificent
+Saladin
+Tamerlane
+Cyrus the Great
+Darius the Great
+Xerxes I
+Ramses II
+Tutankhamun
+Cleopatra
+Nefertiti
+Hatshepsut
+Confucius
+Laozi
+Sun Tzu
+Qin Shi Huang
+Emperor Meiji
+Toyotomi Hideyoshi
+Oda Nobunaga
+Tokugawa Ieyasu
+Gautama Buddha
+Jesus Christ
+Muhammad
+Moses
+Abraham
+King David
+Saint Peter
+Saint Paul
+Constantine the Great
+Charlemagne
+Martin Luther
+John Calvin
+Pope Francis
+Pope John Paul II
+Mother Teresa
+Florence Nightingale
+Clara Barton
+Harriet Tubman
+Sojourner Truth
+Rosa Parks
+Susan B. Anthony
+Elizabeth Cady Stanton
+Marie Curie
+Albert Einstein
+Isaac Newton
+Galileo Galilei
+Nicolaus Copernicus
+Johannes Kepler
+Charles Darwin
+Gregor Mendel
+Louis Pasteur
+Alexander Fleming
+Thomas Edison
+Nikola Tesla
+Benjamin Franklin
+James Watt
+Eli Whitney
+Alexander Graham Bell
+Guglielmo Marconi
+John Logie Baird
+Tim Berners-Lee
+Alan Turing
+Ada Lovelace
+Grace Hopper
+Stephen Hawking
+Richard Feynman
+Carl Sagan
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+Valentina Tereshkova
+Amelia Earhart
+Charles Lindbergh
+Marco Polo
+Christopher Columbus
+Ferdinand Magellan
+Vasco da Gama
+Hernán Cortés
+Francisco Pizarro
+James Cook
+Roald Amundsen
+Ernest Shackleton
+Leif Erikson
+Francis Drake
+Walter Raleigh
+Amerigo Vespucci
+Hernando de Soto
+Zheng He
+Ibn Battuta
+Ibn Sina 
+Alhazen
+Rumi
+Omar Khayyam
+Socrates
+Plato
+Aristotle
+Diogenes
+Epicurus
+Seneca
+Marcus Aurelius
+Cicero
+Augustine of Hippo
+Thomas Aquinas
+René Descartes
+Baruch Spinoza
+John Locke
+Voltaire
+Jean-Jacques Rousseau
+Immanuel Kant
+Georg Wilhelm Friedrich Hegel
+Karl Marx
+Friedrich Nietzsche
+Sigmund Freud
+Carl Jung
+Jean-Paul Sartre
+Simone de Beauvoir
+Søren Kierkegaard
+Confucius
+Laozi
+Zhuangzi
+Mencius
+Machiavelli
+Leonardo da Vinci
+Michelangelo
+Raphael
+Donatello
+Sandro Botticelli
+Caravaggio
+Rembrandt
+Johannes Vermeer
+Claude Monet
+Pierre-Auguste Renoir
+Vincent van Gogh
+Paul Cézanne
+Pablo Picasso
+Salvador Dalí
+Henri Matisse
+Edvard Munch
+Gustav Klimt
+Jackson Pollock
+Andy Warhol
+Frida Kahlo
+Diego Rivera
+Georgia O’Keeffe
+Grant Wood
+John Singer Sargent
+Auguste Rodin
+Henry Moore
+Michelangelo Buonarroti
+Ludwig van Beethoven
+Wolfgang Amadeus Mozart
+Johann Sebastian Bach
+Franz Schubert
+Franz Liszt
+Richard Wagner
+Giuseppe Verdi
+Johannes Brahms
+Pyotr Ilyich Tchaikovsky
+Igor Stravinsky
+Claude Debussy
+Maurice Ravel
+Frederic Chopin
+Antonín Dvořák
+Joseph Haydn
+George Frideric Handel
+Antonio Vivaldi
+Elvis Presley
+The Beatles
+Bob Dylan
+Jimi Hendrix
+David Bowie
+Michael Jackson
+Whitney Houston
+Prince
+Madonna
+John Lennon
+Paul McCartney
+Freddie Mercury
+Aretha Franklin
+Louis Armstrong
+Duke Ellington
+Miles Davis
+Billie Holiday
+Ella Fitzgerald
+Frank Sinatra
+Ray Charles
+Nina Simone
+B.B. King
+Chuck Berry
+Buddy Holly
+Johnny Cash
+Bob Marley
+Tupac Shakur
+The Notorious B.I.G.
+Kurt Cobain
+Jim Morrison
+Janis Joplin
+John Coltrane
+Charlie Parker
+Chopin
+Mozart
+Beethoven
+Beatrix Potter
+Charles Dickens
+William Shakespeare
+Jane Austen
+Mark Twain
+Ernest Hemingway
+F. Scott Fitzgerald
+George Orwell
+J.R.R. Tolkien
+C.S. Lewis
+Lewis Carroll
+Oscar Wilde
+Edgar Allan Poe
+H.G. Wells
+Arthur Conan Doyle
+Mary Shelley
+Emily Brontë
+Charlotte Brontë
+Harper Lee
+Toni Morrison
+Virginia Woolf
+James Joyce
+Homer
+Sophocles
+Euripides
+Aeschylus
+Dante Alighieri
+Geoffrey Chaucer
+John Milton
+John Locke
+Thomas Hobbes
+John Stuart Mill
+Jean-Jacques Rousseau
+Voltaire
+Napoleon Bonaparte
+Abraham Lincoln
+George Washington
+Catherine the Great
+Peter the Great
+Ivan the Terrible
+Queen Victoria
+Queen Elizabeth I
+Queen Elizabeth II
+King Henry VIII
+Emperor Nero
+Cleopatra
+Alexander the Great

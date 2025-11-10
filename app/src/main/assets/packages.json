@@ -1,0 +1,182 @@
+[
+  {
+    "title": "People",
+    "packages": [
+      {
+        "title": "Presidents",
+        "fileName": "presidents.txt",
+        "description": "American Presidents"
+      },
+      {
+        "title": "Vice Presidents",
+        "fileName": "vicepresidents.txt",
+        "description": "American Vice Presidents"
+      },
+      {
+        "title": "Historical Figures",
+        "fileName": "historyfamous.txt",
+        "description": "Famous Historical Figures"
+      },
+      {
+        "title": "Athletes",
+        "fileName": "athletes.txt",
+        "description": "Famous Athletes"
+      },
+      {
+        "title": "Celebrities",
+        "fileName": "celebs.txt",
+        "description": "Actors, Musicians, and Other Celebrities"
+      }
+    ]
+  },
+  {
+    "title": "Places",
+    "packages": [
+      {
+        "title": "US States",
+        "fileName": "usstates.txt",
+        "description": ""
+      },
+      {
+        "title": "US State Capitals",
+        "fileName": "uscapitals.txt",
+        "description": ""
+      },
+      {
+        "title": "Canadian Provinces",
+        "fileName": "caprovinces.txt",
+        "description": ""
+      },
+      {
+        "title": "Countries of the World",
+        "fileName": "countries.txt",
+        "description": ""
+      },
+      {
+        "title": "Capitals of the World",
+        "fileName": "worldcapitals.txt",
+        "description": ""
+      },
+      {
+        "title": "Legendary Places",
+        "fileName": "legendaryplaces.txt",
+        "description": "Mythical and Legendary Places"
+      }
+    ]
+  },
+  {
+    "title": "Entertainment & Media",
+    "packages": [
+      {
+        "title": "Books",
+        "fileName": "100books.txt",
+        "description": "Top 100 Books"
+      },
+      {
+        "title": "Movies",
+        "fileName": "250movies.txt",
+        "description": "Popular Movies"
+      },
+      {
+        "title": "Highest Grossing Movies",
+        "fileName": "highestgrossingmovies.txt",
+        "description": "Highest Grossing Movies"
+      },
+      {
+        "title": "Highest Grossing Movies by Year",
+        "fileName": "highestgrossingmoviesalltime.txt",
+        "description": "Top Films by Year"
+      },
+      {
+        "title": "Video Games",
+        "fileName": "videogames.txt",
+        "description": "Top Selling Video Games"
+      },
+      {
+        "title": "Sports",
+        "fileName": "sports.txt",
+        "description": "Sports and Major Sporting Events"
+      }
+    ]
+  },
+  {
+    "title": "Nature & Science",
+    "packages": [
+      {
+        "title": "Animals",
+        "fileName": "animals.txt",
+        "description": ""
+      },
+      {
+        "title": "Elements",
+        "fileName": "elements.txt",
+        "description": "Chemical Elements"
+      },
+      {
+        "title": "Food",
+        "fileName": "food.txt",
+        "description": "Ingredients and Foods"
+      },
+      {
+        "title": "Vehicles",
+        "fileName": "vehicles.txt",
+        "description": "Cars, Aircraft, and Other Vehicles"
+      }
+    ]
+  },
+  {
+    "title": "Culture & Society",
+    "packages": [
+      {
+        "title": "Holidays",
+        "fileName": "holidays.txt",
+        "description": "Various Holidays Around the World"
+      },
+      {
+        "title": "Sayings",
+        "fileName": "150sayings.txt",
+        "description": "Sayings and Proverbs"
+      },
+      {
+        "title": "Companies",
+        "fileName": "companies.txt",
+        "description": "Famous Companies and Brands"
+      },
+      {
+        "title": "Jobs",
+        "fileName": "vocations.txt",
+        "description": "Jobs and Occupations"
+      }
+    ]
+  },
+  {
+    "title": "Catchphrase",
+    "packages": [
+      {
+        "title": "Easy",
+        "fileName": "catchphraseeasy.txt",
+        "description": ""
+      },
+      {
+        "title": "Medium",
+        "fileName": "catchphrasemedium.txt",
+        "description": ""
+      },
+      {
+        "title": "Hard",
+        "fileName": "catchphrasehard.txt",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "Misc / Test",
+    "packages": [
+      {
+        "title": "Words",
+        "fileName": "words.txt",
+        "description": "Test Words"
+      }
+    ]
+  }
+]
