@@ -1,10 +1,13 @@
 A blessing in disguise
+A fish out of water
 A sandwich short of a picnic
+A spanner in the works
 A stone's throw
+A taste of your own medicine
 Actions speak louder than words
 Add fuel to the fire
 Add insult to injury
-I'm all ears
+And pigs might fly
 At a crossroads
 Barking up the wrong tree
 Beat about the bush
@@ -38,20 +41,18 @@ Cut a long story short
 Cut corners
 Cut someone some slack
 Cut to the chase
+Desperate times call for desperate measures
 Dig your heels in
 Dog eat dog
 Don't give up the day job
 Don't put all your eggs in one basket
 Don't run before you can walk
-Desperate times call for desperate measures
 Easy does it
 Eat a horse
-The elephant in the room
 Every cloud has a silver lining
 Face the music
 Find your feet
 Finger in every pie
-A fish out of water
 Fit as a fiddle
 Follow in someone's footsteps
 Freak out
@@ -68,7 +69,6 @@ Go back to the drawing board
 Go cold turkey
 Go down that road
 Go the extra mile
-The grass is always greener on the other side
 Green fingers
 Hang in there
 Have eyes in the back of your head
@@ -79,6 +79,7 @@ Hit the nail on the head
 Hit the road
 Hit the sack
 Hold your horses
+I'm all ears
 Ignorance is bliss
 It's not rocket science
 Jump on the bandwagon
@@ -96,14 +97,13 @@ Nip it in the bud
 No pain, no gain
 No-brainer
 Not your cup of tea
-Off your trolley/rocker/nut/head
 Off the top of your head
+Off your trolley/rocker/nut/head
 On the ball
 On the pull
 On the straight and narrow
 Once in a blue moon
 Piece of cake
-And pigs might fly
 Pitch in
 Play it by ear
 Pull someone's leg
@@ -120,7 +120,6 @@ Sit tight
 Sleep on it
 Smell a rat
 So far, so good
-A spanner in the works
 Speak of the devil
 Spill the beans
 Splash out
@@ -128,11 +127,12 @@ Stab someone in the back
 Steal someone's thunder
 Stick to your guns
 Straight from the horse's mouth
-Take the piss
 Take it with a pinch of salt
-A taste of your own medicine
+Take the piss
 The ball is in your court
 The best of both worlds
+The elephant in the room
+The grass is always greener on the other side
 The last/final straw
 Through thick and thin
 Time flies when you're having fun
@@ -141,10 +141,23 @@ Under the weather
 Up in the air
 Waste not, want not
 We'll cross that bridge when we come to it
+When hell freezes over
 Wild goose chase
 Wouldn't be caught dead
 Wrap your head around something
 You can say that again
 You can't judge a book by its cover
 Your guess is as good as mine
-When hell freezes over
+To be, or not to be, that is the question.
+The root of suffering is attachment.
+The journey of a thousand miles begins with one step.
+That’s one small step for a man, one giant leap for mankind.
+That which does not kill us makes us stronger.
+Not all those who wander are lost.
+Keep calm and carry on.
+Wise men talk because they have something to say; fools, because they have to say something.
+One must imagine Sisyphus happy.
+I think, therefore I am.
+I came, I saw, I conquered.
+God helps those that help themselves.
+Early to bed and early to rise makes a man healthy, wealthy, and wise. 

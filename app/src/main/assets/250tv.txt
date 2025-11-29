@@ -1,186 +1,166 @@
-Friends
-The Office
-Breaking Bad
-Better Call Saul
-Game of Thrones
-Stranger Things
-The Mandalorian
-The Simpsons
-Family Guy
-South Park
-Rick and Morty
-Seinfeld
-How I Met Your Mother
-Modern Family
-The Big Bang Theory
-Parks and Recreation
-Arrested Development
-Fargo
-True Detective
-The Crown
-The Queen’s Gambit
-Sherlock
-Doctor Who
-Star Trek: The Original Series
-Star Trek: The Next Generation
-Star Trek: Deep Space Nine
-Star Trek: Voyager
-Star Trek: Discovery
-Star Trek: Picard
-Buffy the Vampire Slayer
-Angel
-Supernatural
-The X-Files
-Fringe
-Lost
 24
-Prison Break
-Dexter
-House, M.D.
-Grey’s Anatomy
-ER
-Scrubs
-Chicago Med
-Chicago Fire
-Chicago P.D.
-NCIS
-NCIS: Los Angeles
-NCIS: New Orleans
-Criminal Minds
-Law & Order
-Law & Order: SVU
-Law & Order: Criminal Intent
-Blue Bloods
-Bones
-Castle
-How to Get Away with Murder
-Scandal
-Quantico
-Bridgerton
-Downton Abbey
-Peaky Blinders
-Vikings
-The Last Kingdom
-The Witcher
-The Boys
-Daredevil
-Jessica Jones
-Luke Cage
-Iron Fist
-The Defenders
 Agents of S.H.I.E.L.D.
-Hawkeye
-Loki
-WandaVision
-Falcon and the Winter Soldier
-Moon Knight
-Hawkeye
-Black Mirror
-Love, Death & Robots
-The Umbrella Academy
-Titans
-Gotham
-Arrow
-The Flash
-Supergirl
-Legends of Tomorrow
-Batwoman
-Smallville
-Stargate SG-1
-Stargate Atlantis
-Stargate Universe
-Battlestar Galactica 
-The Twilight Zone
-The Outer Limits
 Alfred Hitchcock Presents
-Columbo
-Magnum, P.I.
-Miami Vice
-Knight Rider
-Baywatch
-Cheers
-Frasier
-MAS*H
-The Golden Girls
-Family Ties
-Happy Days
-Full House
-Step by Step
-Boy Meets World
-Saved by the Bell
-Beverly Hills
-Melrose Place
-Dawson’s Creek
-One Tree Hill
-Gossip Girl
-Veronica Mars
-Gilmore Girls
-Charmed
-Sabrina the Teenage Witch
-Riverdale
-Supernatural
-Teen Wolf
-The 100
-Lost in Space
-Stranger Things
-Black-ish
-Fresh Off the Boat
+Angel
+Arrested Development
+Arrow
 Atlanta
-Insecure
-Fleabag
-Killing Eve
-The Handmaid’s Tale
-Westworld
-Big Little Lies
-Euphoria
-Squid Game
-Money Heist
-Narcos
-Narcos: Mexico
-Breaking Bad
+Battlestar Galactica
+Batwoman
+Baywatch
 Better Call Saul
-Ozark
-House of Cards
-Mad Men
-The Sopranos
-The Wire
-Boardwalk Empire
-Deadwood
-Sons of Anarchy
-Mayans M.C.
-Yellowstone
-The Walking Dead
-Fear the Walking Dead
-The Last of Us
-True Blood
-Dexter
-Hannibal
-Mindhunter
-Criminal Minds
-Law & Order
-Law & Order: SVU
-Law & Order: Organized Crime
+Beverly Hills
+Big Little Lies
+Billions
+Black Mirror
+Black-ish
 Blue Bloods
+Boardwalk Empire
+Bones
+Boy Meets World
+Breaking Bad
+Bridgerton
+Buffy the Vampire Slayer
+Castle
+Charmed
+Cheers
+Chicago Fire
+Chicago Justice
+Chicago Med
+Chicago P.D.
+Columbo
+Criminal Minds
 CSI: Crime Scene Investigation
 CSI: Miami
 CSI: NY
+Daredevil
+Dawson’s Creek
+Deadwood
+Designated Survivor
+Dexter
+Doctor Who
+Downton Abbey
+ER
+Euphoria
+Falcon and the Winter Soldier
+Family Guy
+Family Ties
+Fargo
+FBI
+FBI: International
+FBI: Most Wanted
+Fear the Walking Dead
+Fleabag
+Frasier
+Fresh Off the Boat
+Friends
+Fringe
+Full House
+Game of Thrones
+Gilmore Girls
+Gossip Girl
+Gotham
+Grey’s Anatomy
+Hannibal
+Happy Days
+Hawkeye
+House of Cards
+House, M.D.
+How I Met Your Mother
+How to Get Away with Murder
+Insecure
+Iron Fist
+Jessica Jones
+Killing Eve
+Knight Rider
+Law & Order
+Law & Order: Criminal Intent
+Law & Order: Organized Crime
+Law & Order: SVU
+Legends of Tomorrow
+Loki
+Lost
+Lost in Space
+Love, Death & Robots
+Luke Cage
+Mad Men
+Madam Secretary
+Magnum, P.I.
+MAS*H
+Mayans M.C.
+Melrose Place
+Miami Vice
+Mindhunter
+Modern Family
+Money Heist
+Moon Knight
+Narcos
+Narcos: Mexico
 NCIS
 NCIS: Los Angeles
 NCIS: New Orleans
-FBI
-FBI: Most Wanted
-FBI: International
-Chicago Fire
-Chicago Med
-Chicago P.D.
-Chicago Justice
-Suits
-Billions
-Succession
-The West Wing
-Designated Survivor
-Madam Secretary
-House of Cards
-Scandal
-How to Get Away with Murder
+One Tree Hill
+Ozark
+Parks and Recreation
+Peaky Blinders
+Prison Break
 Quantico
+Rick and Morty
+Riverdale
+Sabrina the Teenage Witch
+Saved by the Bell
+Scandal
+Scrubs
+Seinfeld
+Sherlock
+Smallville
+Sons of Anarchy
+South Park
+Squid Game
+Star Trek: Deep Space Nine
+Star Trek: Discovery
+Star Trek: Picard
+Star Trek: The Next Generation
+Star Trek: The Original Series
+Star Trek: Voyager
+Stargate Atlantis
+Stargate SG-1
+Stargate Universe
+Step by Step
+Stranger Things
+Succession
+Suits
+Supergirl
+Supernatural
+Teen Wolf
+The 100
+The Big Bang Theory
+The Boys
+The Crown
+The Defenders
+The Flash
+The Golden Girls
+The Handmaid’s Tale
+The Last Kingdom
+The Last of Us
+The Mandalorian
+The Office
+The Outer Limits
+The Queen’s Gambit
+The Simpsons
+The Sopranos
+The Twilight Zone
+The Umbrella Academy
+The Walking Dead
+The West Wing
+The Wire
+The Witcher
+The X-Files
+Titans
+True Blood
+True Detective
+Veronica Mars
+Vikings
+WandaVision
+Westworld
+Yellowstone

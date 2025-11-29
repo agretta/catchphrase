@@ -1,52 +1,52 @@
-New Year’s Day
-Valentine’s Day
-St. Patrick’s Day
-Easter
-April Fools’ Day
-Mother’s Day
-Father’s Day
-Independence Day
-Labor Day
-Halloween
-Thanksgiving
-Christmas
-Hanukkah
-Kwanzaa
-Ramadan
-Diwali
-Chinese New Year
-Lunar New Year
-Rosh Hashanah
-Yom Kippur
-Passover
-Holi
-Boxing Day
-Cinco de Mayo
-Veterans Day
-Memorial Day
-Earth Day
-International Women’s Day
-Pride Month
-New Year’s Eve
-Mardi Gras
-Good Friday
-Black Friday
-Cyber Monday
-Día de los Muertos
-Bastille Day
-Oktoberfest
-Arbor Day
-Groundhog Day
-Martin Luther King Jr. Day
-Columbus Day 
-Indigenous Peoples’ Day
-Palm Sunday
 All Saints’ Day
-Winter Solstice
-Summer Solstice
-Fall Equinox
-Sprint Equinox
+April Fools’ Day
+Arbor Day
 Ash Wednesday
+Bastille Day
+Black Friday
+Boxing Day
 Carnival
-Flag Day
+Chinese New Year
+Christmas
+Cinco de Mayo
+Columbus Day
+Cyber Monday
 Daylight Savings
+Diwali
+Día de los Muertos
+Earth Day
+Easter
+Fall Equinox
+Father’s Day
+Flag Day
+Good Friday
+Groundhog Day
+Halloween
+Hanukkah
+Holi
+Independence Day
+Indigenous Peoples’ Day
+International Women’s Day
+Kwanzaa
+Labor Day
+Lunar New Year
+Mardi Gras
+Martin Luther King Jr. Day
+Memorial Day
+Mother’s Day
+New Year’s Day
+New Year’s Eve
+Oktoberfest
+Palm Sunday
+Passover
+Pride Month
+Ramadan
+Rosh Hashanah
+Sprint Equinox
+St. Patrick’s Day
+Summer Solstice
+Thanksgiving
+Valentine’s Day
+Veterans Day
+Winter Solstice
+Yom Kippur

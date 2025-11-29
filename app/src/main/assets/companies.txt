@@ -1,370 +1,366 @@
-Apple
-Microsoft
-Google
+3M
+AbbVie
+Abercrombie & Fitch
+Accor
+Acer
+Activision Blizzard
+Acura
+Adidas
+Adobe
+Air Canada
+Air France
+Airbnb
+Airbus
+Aldi
+Alibaba
 Alphabet
 Amazon
-Meta
-Facebook
-Instagram
-WhatsApp
-YouTube
-TikTok
-ByteDance
-Netflix
-Disney
-Pixar
-Marvel Studios
-Warner Bros
-Universal Pictures
-Paramount Pictures
-Sony
-Sony Music
-Sony Interactive Entertainment
-PlayStation
-Nintendo
-Sega
-Atari
-Ubisoft
-Electronic Arts
-Activision Blizzard
-Bethesda
-Rockstar Games
-Take-Two Interactive
-Square Enix
-Bandai Namco
-Capcom
-Konami
-Tencent
-Epic Games
-Unity Technologies
-Roblox Corporation
-Valve
-Steam
-Intel
 AMD
-NVIDIA
-Qualcomm
-IBM
-Oracle
-SAP
-Cisco
-Dell
-HP
-Lenovo
-Acer
-Asus
-Samsung
-LG
-Panasonic
-Toshiba
-Sharp
-Hitachi
-Fujitsu
-NEC
-Xiaomi
-Huawei
-ZTE
-Oppo
-Vivo
-OnePlus
-Motorola
-Nokia
-Ericsson
-Siemens
-Bosch
-Philips
-GE 
-Honeywell
-3M
-Caterpillar
-John Deere
-Volvo
-Ford
-General Motors
-Chevrolet
-Cadillac
-Buick
-GMC
-Chrysler
-Jeep
-Dodge
-Ram
-Tesla
-Rivian
-Lucid Motors
-BMW
-Mercedes-Benz
-Audi
-Volkswagen
-Porsche
-Lamborghini
-Ferrari
-Maserati
-Fiat
-Peugeot
-Renault
-Nissan
-Toyota
-Lexus
-Subaru
-Mazda
-Honda
-Acura
-Hyundai
-Kia
-Mitsubishi
-Suzuki
-Tata Motors
-Mahindra
-BYD
-Great Wall Motors
-SAIC Motor
-Shell
-BP
-ExxonMobil
-Chevron
-TotalEnergies
-ConocoPhillips
-Gazprom
-Rosneft
-Saudi Aramco
-Petrobras
-Sinopec
-CNPC
-Valero
-Phillips 66
-Dow
-DuPont
-BASF
-3M
-Cargill
-Archer Daniels Midland
-Nestlé
-Unilever
-Procter & Gamble
-Colgate-Palmolive
-Johnson & Johnson
-Kimberly-Clark
-PepsiCo
-Coca-Cola
-Keurig Dr Pepper
-Danone
-Kraft Heinz
-General Mills
-Kellogg’s
-Mondelez
-Mars
-Hershey
-Ferrero
-L’Oréal
-Estée Lauder
-Revlon
-Coty
-Nike
-Adidas
-Puma
-Under Armour
-New Balance
-Reebok
-Vans
-Converse
-The North Face
-Patagonia
-Columbia Sportswear
-Levi’s
-Wrangler
-Gucci
-Prada
-Versace
-Chanel
-Dior
-Louis Vuitton
-Hermès
-Burberry
-Balenciaga
-Rolex
-Cartier
-Tiffany & Co.
-Zara
-H&M
-Uniqlo
-Gap
-Old Navy
-Banana Republic
-American Eagle
-Abercrombie & Fitch
-Hollister
-Urban Outfitters
-Forever 21
-Shein
-ASOS
-Etsy
-Shopify
-Walmart
-Target
-Costco
-Kroger
-Aldi
-Lidl
-Tesco
-Sainsbury’s
-Marks & Spencer
-Carrefour
-IKEA
-Home Depot
-Lowe’s
-Wayfair
-Best Buy
-Staples
-Office Depot
-Walgreens
-CVS Health
-Rite Aid
-Bayer
-Pfizer
-Moderna
-Johnson & Johnson
-AstraZeneca
-Novartis
-Roche
-Sanofi
-Merck
-GlaxoSmithKline
-AbbVie
-Amgen
-Bristol Myers Squibb
-Gilead Sciences
-Biogen
-Regeneron
-Thermo Fisher Scientific
-Illumina
-Boston Scientific
-Medtronic
-GE Healthcare
-Philips Healthcare
-Siemens Healthineers
-UPS
-FedEx
-DHL
-USPS
-Maersk
-CMA CGM
-Hapag-Lloyd
-Evergreen Marine
-COSCO
-Delta Air Lines
 American Airlines
-United Airlines
-Southwest Airlines
-Lufthansa
-Emirates
-Qatar Airways
-Singapore Airlines
-British Airways
-Air France
-KLM
-ANA
-Japan Airlines
-Air Canada
-Qantas
-Turkish Airlines
-Ryanair
-easyJet
-Uber
-Lyft
-DoorDash
-Grubhub
-Airbnb
-Booking Holdings
-Expedia
-Tripadvisor
-Marriott
-Hilton
-Hyatt
-InterContinental Hotels Group
-Accor
-Four Seasons
-Ritz-Carlton
-Wynn Resorts
-Las Vegas Sands
-MGM Resorts
-Caesars Entertainment
-Boeing
-Airbus
-Lockheed Martin
-Northrop Grumman
-Raytheon
-General Dynamics
-BAE Systems
-Thales
-SpaceX
-Blue Origin
-NASA 
-Virgin Galactic
-Rocket Lab
-Palantir
-Snowflake
-ServiceNow
-Salesforce
-Zoom
-Slack 
-Dropbox
-Adobe
-Autodesk
-Intuit
-Square 
-PayPal
-Stripe
-Visa
-Mastercard
+American Eagle
 American Express
-Discover
-Goldman Sachs
-Morgan Stanley
-JPMorgan Chase
-Bank of America
-Citigroup
-Wells Fargo
-HSBC
-Barclays
-UBS
-Credit Suisse
-Deutsche Bank
-BNP Paribas
-ING
-Santander
-BBVA
-Royal Bank of Canada
-Toronto-Dominion Bank
-Commonwealth Bank
-Westpac
+Amgen
+ANA
 ANZ
-SoftBank
-Tencent Holdings
-Alibaba
-JD.com
+Apple
+Archer Daniels Midland
+ASOS
+AstraZeneca
+Asus
+Atari
+Audi
+Autodesk
+BAE Systems
 Baidu
-Weibo
-Naver
-Kakao
-LINE
-Rakuten
-Sony Group
-Panasonic Holdings
-Mitsubishi
-Sumitomo
-Hitachi
-Toshiba Corporation
-Toyota Group
-Honda Motor Co.
-Nissan Motor Co.
-Samsung Electronics
-Hyundai Group
-SK Group
-LG Corporation
-POSCO
+Balenciaga
+Banana Republic
+Bandai Namco
+Bank of America
+Barclays
+BASF
+Bayer
+BBVA
+Best Buy
+Bethesda
+Biogen
+Blue Origin
+BMW
+BNP Paribas
+Boeing
+Booking Holdings
+Bosch
+Boston Scientific
+BP
+Bristol Myers Squibb
+British Airways
+Buick
+Burberry
+BYD
+ByteDance
+Cadillac
+Caesars Entertainment
+Capcom
+Cargill
+Carrefour
+Cartier
+Caterpillar
+Chanel
+Chevrolet
+Chevron
+Chrysler
+Cisco
+Citigroup
+CMA CGM
+CNPC
+Coca-Cola
+Colgate-Palmolive
+Columbia Sportswear
+Commonwealth Bank
+ConocoPhillips
+Converse
+COSCO
+Costco
+Coty
+Credit Suisse
+CVS Health
+Danone
+Dell
+Delta Air Lines
+Deutsche Bank
+DHL
+Dior
+Discover
+Disney
+Dodge
+DoorDash
+Dow
+Dropbox
+DuPont
+easyJet
+Electronic Arts
+Emirates
+Epic Games
+Ericsson
+Estée Lauder
+Etsy
+Evergreen Marine
+Expedia
+ExxonMobil
+Facebook
+FedEx
+Ferrari
+Ferrero
+Fiat
+Ford
+Forever 21
+Four Seasons
 Foxconn
-TSMC
+Fujitsu
+Gap
+Gazprom
+GE
+GE Healthcare
+General Dynamics
+General Mills
+General Motors
+Gilead Sciences
+GlaxoSmithKline
+GMC
+Goldman Sachs
+Google
+Great Wall Motors
+Grubhub
+Gucci
+H&M
+Hapag-Lloyd
+Hermès
+Hershey
+Hilton
+Hitachi
+Hollister
+Home Depot
+Honda
+Honda Motor Co.
+Honeywell
+HP
+HSBC
+Huawei
+Hyatt
+Hyundai
+Hyundai Group
+IBM
+IKEA
+Illumina
+ING
+Instagram
 Intel
-AMD
+InterContinental Hotels Group
+Intuit
+Japan Airlines
+JD.com
+Jeep
+John Deere
+Johnson & Johnson
+JPMorgan Chase
+Kakao
+Kellogg’s
+Keurig Dr Pepper
+Kia
+Kimberly-Clark
+KLM
+Konami
+Kraft Heinz
+Kroger
+Lamborghini
+Las Vegas Sands
+Lenovo
+Levi’s
+Lexus
+LG
+LG Corporation
+Lidl
+LINE
+Lockheed Martin
+Louis Vuitton
+Lowe’s
+Lucid Motors
+Lufthansa
+Lyft
+L’Oréal
+Maersk
+Mahindra
+Marks & Spencer
+Marriott
+Mars
+Marvel Studios
+Maserati
+Mastercard
+Mazda
+Medtronic
+Mercedes-Benz
+Merck
+Meta
+MGM Resorts
 Micron Technology
+Microsoft
+Mitsubishi
+Moderna
+Mondelez
+Morgan Stanley
+Motorola
+NASA
+Naver
+NEC
+Nestlé
+Netflix
+New Balance
+Nike
+Nintendo
+Nissan
+Nissan Motor Co.
+Nokia
+Northrop Grumman
+Novartis
+NVIDIA
+Office Depot
+Old Navy
+OnePlus
+Oppo
+Oracle
+Palantir
+Panasonic
+Panasonic Holdings
+Paramount Pictures
+Patagonia
+PayPal
+PepsiCo
+Petrobras
+Peugeot
+Pfizer
+Philips
+Philips Healthcare
+Phillips 66
+Pixar
+PlayStation
+Porsche
+POSCO
+Prada
+Procter & Gamble
+Puma
+Qantas
+Qatar Airways
+Qualcomm
+Rakuten
+Ram
+Raytheon
+Reebok
+Regeneron
+Renault
+Revlon
+Rite Aid
+Ritz-Carlton
+Rivian
+Roblox Corporation
+Roche
+Rocket Lab
+Rockstar Games
+Rolex
+Rosneft
+Royal Bank of Canada
+Ryanair
+SAIC Motor
+Sainsbury’s
+Salesforce
+Samsung
+Samsung Electronics
+Sanofi
+Santander
+SAP
+Saudi Aramco
+Sega
+ServiceNow
+Sharp
+Shein
+Shell
+Shopify
+Siemens
+Siemens Healthineers
+Singapore Airlines
+Sinopec
+SK Group
+Slack
+Snowflake
+SoftBank
+Sony
+Sony Group
+Sony Interactive Entertainment
+Sony Music
+Southwest Airlines
+SpaceX
+Square
+Square Enix
+Staples
+Steam
+Stripe
+Subaru
+Sumitomo
+Suzuki
+Take-Two Interactive
+Target
+Tata Motors
+Tencent
+Tencent Holdings
+Tesco
+Tesla
+Thales
+The North Face
+Thermo Fisher Scientific
+Tiffany & Co.
+TikTok
+Toronto-Dominion Bank
+Toshiba
+Toshiba Corporation
+TotalEnergies
+Toyota
+Toyota Group
+Tripadvisor
+TSMC
+Turkish Airlines
+Uber
+Ubisoft
+UBS
+Under Armour
+Unilever
+Uniqlo
+United Airlines
+Unity Technologies
+Universal Pictures
+UPS
+Urban Outfitters
+USPS
+Valero
+Valve
+Vans
+Versace
+Virgin Galactic
+Visa
+Vivo
+Volkswagen
+Volvo
+Walgreens
+Walmart
+Warner Bros
+Wayfair
+Weibo
+Wells Fargo
+Westpac
+WhatsApp
+Wrangler
+Wynn Resorts
+Xiaomi
+YouTube
+Zara
+Zoom
+ZTE
+McKinsey & Company
+

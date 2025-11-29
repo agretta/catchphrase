@@ -1,314 +1,306 @@
-Soccer
-Basketball
-Baseball
-American Football
-Rugby
-Cricket
-Tennis
-Table Tennis
-Badminton
-Volleyball
-Beach Volleyball
-Golf
-Hockey
-Field Hockey
-Ice Hockey
-Lacrosse
-Handball
-Water Polo
-Softball
-Squash
-Racquetball
-Bowling
-Boxing
-Kickboxing
-Muay Thai
-Mixed Martial Arts
-Wrestling
-Judo
-Karate
-Taekwondo
-Aikido
-Brazilian Jiu-Jitsu
-Sambo
-Fencing
-Archery
-Shooting
-Biathlon
-Triathlon
-Duathlon
-Pentathlon
-Decathlon
-Track and Field
-Marathon
-Cross Country Running
-Trail Running
-Race Walking
-Cycling
-Mountain Biking
-BMX
-Road Cycling
-Track Cycling
-Skateboarding
-Snowboarding
-Skiing
-Cross-Country Skiing
-Downhill Skiing
-Freestyle Skiing
-Ski Jumping
-Snowshoeing
-Curling
-Ice Skating
-Figure Skating
-Speed Skating
-Surfing
-Windsurfing
-Kitesurfing
-Sailing
-Rowing
-Canoeing
-Kayaking
-Dragon Boat Racing
-Stand-Up Paddleboarding
-Swimming
-Diving
-Synchronized Swimming
-Water Skiing
-Wakeboarding
-Bodyboarding
-Climbing
-Bouldering
-Mountaineering
 Abseiling
-Caving
-Orienteering
-Paragliding
-Hang Gliding
-Skydiving
-BASE Jumping
-Parachuting
-Gliding
-Motorsport
-Formula 1
-Rally Racing
-Karting
-MotoGP
-Motocross
-Speedway
-Drag Racing
-Off-Road Racing
-Jet Ski Racing
-Horse Racing
-Equestrian
-Dressage
-Show Jumping
-Eventing
-Polo
-Rodeo
-Bull Riding
-Barrel Racing
-Gymnastics
-Rhythmic Gymnastics
-Trampoline
-Cheerleading
-Dance
-Ballet
-Modern Dance
-Hip Hop Dance
-Tap Dance
-Breakdancing
-Figure Marching
-Cheer Dance
-Esports
-Chess
-Go
-Checkers
-Darts
-Billiards
-Snooker
-Pool
-Petanque
-Bocce
-Bowls
-Frisbee
-Ultimate Frisbee
-Disc Golf
-Cornhole
-Hacky Sack
-Parkour
-Freerunning
-Strongman
-Powerlifting
-Weightlifting
-Bodybuilding
-CrossFit
-Aerobics
-Yoga
-Pilates 
-Zumba
-Fishing
-Hunting
-Paintball
-Airsoft
-Laser Tag
-Dodgeball
-Kickball
-Capture the Flag
-Tug of War
-Sumo
-Kabaddi
-Sepak Takraw
-Gaelic Football
-Hurling
-Camogie
-Australian Football
-Netball
-Floorball
-Inline Hockey
-Roller Derby
-Speed Skating
-Tricklining
-Slacklining
-Cheer Stunts
-Obstacle Course Racing
-Spartan Race
-Tough Mudder
-Enduro
-Triad Ball
-Underwater Hockey
-Underwater Rugby
-Underwater Target Shooting
-Sub Aqua Sports
-Model Yachting
-Drone Racing
-Robot Combat
-Sandboarding
-Ice Climbing
-Skeleton
-Bobsleigh
-Luge
-Curling
-Snowmobiling
-Dog Sled Racing
-Paintball Scenario Games
-Korfball
-Padel
-Pickleball
-Footgolf
-Spikeball
-Teqball
-Rounders
-Croquet
-Quidditch 
-Bossaball
-Carrom
-Carpet Bowls
-Four Square
-Handball 
-Pelota
-Basque Pelota
-Paddle Tennis
-Platform Tennis
-Real Tennis
-Speedball
-Sport Stacking
-Foosball
-Mini Golf
-Obstacle Course Racing
 Adventure Racing
-Rafting
-Ice Boating
-Yachting
-Jet Skiing
-Motorboating
-Snowkiting
-Ice Fishing
-Sand Soccer
-Beach Handball
-Beach Tennis
-Beach Rugby
-Beach Wrestling
+Aerobics
+Agility
+Aikido
+Airsoft
+American Football
+Apnoea Diving
+Archery
+Arm Wrestling
+Australian Football
+Autocross
+Axe Throwing
+Badminton
+Ballet
+Barrel Racing
+BASE Jumping
+Baseball
+Basketball
+Basque Pelota
 Beach Basketball
 Beach Cricket
-Underwater Orienteering
-Freediving
-Spearfishing
-Apnoea Diving
-Canoe Polo
-Raft Polo
-Skimboarding
-Flowboarding
-Hydroflight Sports
-Flyboarding
-Hoverboarding
-Cliff Diving
-High Diving
-Stunt Riding
-Freestyle Motocross
-Drifting
-Autocross
-Hill Climb Racing
-Truck Racing
-Tractor Pulling
-Monster Truck Racing
-Lawn Mower Racing
-Powerboat Racing
-RC Car Racing
-RC Plane Racing
-Drone FPV Racing
-Disc Dog
-Agility
-Canicross
+Beach Handball
+Beach Rugby
+Beach Tennis
+Beach Volleyball
+Beach Wrestling
+Biathlon
 Bikejoring
-Skijoring
+Billiards
+BMX
+Bobsleigh
+Bocce
+Bodyboarding
+Bodybuilding
+Bog Snorkeling
+Boomerang Throwing
+Bossaball
+Bouldering
+Bowling
+Bowls
+Boxing
+Brazilian Jiu-Jitsu
+Breakdancing
+Bull Riding
+Camogie
+Canicross
+Canoe Polo
+Canoeing
+Capture the Flag
+Carpet Bowls
+Carrom
+Caving
+Checkers
+Cheer Dance
+Cheer Stunts
+Cheerleading
+Cheese Rolling
+Chess
+Chess Boxing
+Cliff Diving
+Climbing
+Competitive Eating
+Cornhole
+Cricket
+Croquet
+Cross Country Running
+Cross-Country Skiing
+CrossFit
+Cup Ball
+Cup Stacking
+Curling
+Cycling
+Dance
+Darts
+Decathlon
+Disc Dog
+Disc Golf
+Diving
+Dodge Disc
+Dodgeball
+Dodgebee
+Dog Sled Racing
+Downhill Skiing
+Drag Racing
+Dragon Boat Racing
+Dressage
+Drifting
+Drone FPV Racing
+Drone Freestyle
+Drone Racing
+Duathlon
+Egg Toss
+Enduro
+Equestrian
+Esports
+Eventing
+Extreme Ironing
+Fencing
+Field Hockey
+Figure Marching
+Figure Skating
+Finger Wrestling
+Fishing
+Floorball
+Flowboarding
+Flyboarding
+Foosball
+Footgolf
+Formula 1
+Four Square
+Freediving
+Freerunning
+Freestyle Motocross
+Freestyle Skiing
+Frisbee
+Gaelic Football
+Gliding
+Go
+Golf
+Gymnastics
+Hacky Sack
+Handball
+Hang Gliding
+High Diving
+Hill Climb Racing
+Hip Hop Dance
+Hockey
+Horse Racing
 Horseball
-Vaulting 
-Tetherball
+Hoverball
+Hoverboarding
+Hunting
+Hurling
+Hydroflight Sports
+Ice Boating
+Ice Climbing
+Ice Cross Downhill
+Ice Fishing
+Ice Hockey
+Ice Skating
+Inline Freestyle
+Inline Hockey
+Jet Ski Racing
+Jet Skiing
+Judo
+Kabaddi
+Karate
+Karting
+Kayaking
+Kickball
+Kickboxing
 Kickboxing Aerobics
+Kite Flying
+Kitesurfing
+Knife Throwing
+Korfball
+Lacrosse
+Laser Run
+Laser Tag
+Lawn Mower Racing
+Log Rolling
+Luge
+Marathon
+Mini Golf
 Mini Rugby
 Mini Tennis
-Wiffle Ball
-Streetball
-Street Hockey
-Street Soccer
-Street Luge
-Paddleboarding Races
-Sandcastle Building 
-Cup Stacking
-Competitive Eating
-Arm Wrestling
-Finger Wrestling
-Toe Wrestling
-Chess Boxing
-Extreme Ironing
-Bog Snorkeling
-Wife Carrying
-Cheese Rolling
-Egg Toss
-Sack Race
-Three-Legged Race
-Wheelbarrow Race
-Tug of War
-Log Rolling
-Stone Skimming
-Planking 
-Speed Typing
-Drone Freestyle
-Kite Flying 
-Boomerang Throwing
-Knife Throwing
-Axe Throwing
-Dodgebee
-Hoverball
-Laser Run
-Sport Boules
-Ice Cross Downhill
-Street Luge
-Scooter Racing
-Inline Freestyle
-Sandboarding
+Mixed Martial Arts
+Model Yachting
+Modern Dance
+Monster Truck Racing
+Motocross
+MotoGP
+Motorboating
+Motorsport
+Mountain Biking
 Mountainboard Racing
+Mountaineering
+Muay Thai
+Netball
+Obstacle Course Racing
+Off-Road Racing
+Orienteering
+Paddle Tennis
+Paddleboarding Races
+Padel
+Paintball
+Paintball Scenario Games
+Parachuting
+Paragliding
+Parkour
+Pelota
+Pentathlon
+Petanque
+Pickleball
+Pilates
+Planking
+Platform Tennis
+Polo
+Pool
+Powerboat Racing
+Powerlifting
+Quidditch
+Race Walking
+Racquetball
+Raft Polo
+Rafting
+Rally Racing
+RC Car Racing
+RC Plane Racing
+Real Tennis
+Rhythmic Gymnastics
+Road Cycling
+Robot Combat
+Rodeo
+Roller Derby
+Rounders
+Rowing
+Rugby
+Sack Race
+Sailing
+Sambo
+Sand Soccer
+Sandboarding
+Sandcastle Building
+Scooter Racing
+Sepak Takraw
+Shooting
+Show Jumping
+Skateboarding
+Skeleton
+Ski Jumping
+Skiing
+Skijoring
+Skimboarding
+Skydiving
 Slackline Trick Battles
-Cup Ball
-Dodge Disc
-Adventure Racing
+Slacklining
+Snooker
+Snowboarding
+Snowkiting
+Snowmobiling
+Snowshoeing
+Soccer
+Softball
+Spartan Race
+Spearfishing
+Speed Skating
+Speed Typing
+Speedball
+Speedway
+Spikeball
+Sport Boules
+Sport Stacking
+Squash
+Stand-Up Paddleboarding
+Stone Skimming
+Street Hockey
+Street Luge
+Street Soccer
+Streetball
+Strongman
+Stunt Riding
+Sub Aqua Sports
+Sumo
+Surfing
+Swimming
+Synchronized Swimming
+Table Tennis
+Taekwondo
+Tap Dance
+Tennis
+Teqball
+Tetherball
+Three-Legged Race
+Toe Wrestling
+Tough Mudder
+Track and Field
+Track Cycling
+Tractor Pulling
+Trail Running
+Trampoline
+Triad Ball
+Triathlon
+Tricklining
+Truck Racing
+Tug of War
+Ultimate Frisbee
+Underwater Hockey
+Underwater Orienteering
+Underwater Rugby
+Underwater Target Shooting
+Vaulting
+Volleyball
+Wakeboarding
+Water Polo
+Water Skiing
+Weightlifting
+Wheelbarrow Race
+Wife Carrying
+Wiffle Ball
+Windsurfing
+Wrestling
+Yachting
+Yoga
+Zumba

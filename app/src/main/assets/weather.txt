@@ -1,0 +1,91 @@
+Altocumulus
+Altostratus
+Atmospheric River
+Aurora Australis
+Aurora Borealis
+Barometer
+Barometric Pressure
+Black Ice
+Blizzard
+Breeze
+Chinook
+Cirrus Clouds
+Climatology
+Cold Front
+Cold Wave
+Cumulonimbus
+Cumulus Clouds
+Cyclone
+Dew Point
+Doppler Radar
+Double Rainbow
+Downburst
+Downpour
+Drizzle
+Drought
+Dust Storm
+El Niño
+Flash Flood
+Flood
+Flurries
+Fog
+Fog Bank
+Freezing Rain
+Frost
+Gale
+Ground Frost
+Hail
+Halo
+Haze
+Heat Index
+Heatwave
+High Pressure
+Humidity
+Hurricane
+Ice Storm
+Jet Stream
+La Niña
+Lightning
+Lightning Rod
+Low Pressure
+Meteorology
+Microburst
+Mist
+Mistral
+Monsoon
+Moonbow
+Nimbostratus
+Nimbus Clouds
+Occluded Front
+Rain
+Rain Gauge
+Rain Shower
+Rainbow
+Sandstorm
+Sleet
+Smog
+Snow
+Snow Gauge
+Snowstorm
+Stationary Front
+Storm Surge
+Stratus Clouds
+Sun Shower
+Thermal Inversion
+Thunder
+Thunderstorm
+Tornado
+Trade Winds
+Tropical Storm
+Typhoon
+UV Index
+Visibility
+Warm Front
+Waterspout
+Weather Balloon
+Weather Front
+Weather Radar
+Weather Satellite
+Wind Chill
+Wind Gust
+Wind Vane

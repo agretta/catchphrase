@@ -1,344 +1,337 @@
-Teacher
-Professor
-Scientist
-Engineer
-Architect
-Doctor
-Surgeon
-Nurse
-Paramedic
-Pharmacist
-Dentist
-Veterinarian
-Psychologist
-Therapist
-Social Worker
-Lawyer
-Judge
-Police Officer
-Detective
-Firefighter
-Soldier
-Pilot
-Flight Attendant
-Air Traffic Controller
-Astronaut
-Mechanic
-Electrician
-Plumber
-Carpenter
-Welder
-Mason
-Painter
-Roofer
-Construction Worker
-Heavy Equipment Operator
-Truck Driver
-Taxi Driver
-Bus Driver
-Train Conductor
-Ship Captain
-Sailor
-Fisherman
-Farmer
-Rancher
-Forester
-Park Ranger
-Zookeeper
-Animal Trainer
-Dog Walker
-Chef
-Cook
-Baker
-Butcher
-Bartender
-Barista
-Waiter
-Waitress
-Host
-Caterer
-Hotel Manager
-Housekeeper
-Janitor
-Custodian
-Maintenance Worker
-Security Guard
-Lifeguard
-Personal Trainer
-Fitness Instructor
-Yoga Instructor
-Dance Instructor
-Musician
-Singer
-Composer
-Conductor
-DJ
-Music Producer
+Accountant
 Actor
 Actress
-Director
-Producer
-Screenwriter
-Playwright
-Cinematographer
-Editor
-Photographer
-Videographer
-Journalist
-Reporter
-News Anchor
-Radio Host
-Podcaster
-Writer
-Author
-Poet
-Blogger
-Copywriter
-Editor
-Translator
-Interpreter
-Librarian
-Archivist
-Historian
-Archaeologist
-Anthropologist
-Sociologist
-Economist
-Political Scientist
-Statistician
-Mathematician
-Physicist
-Chemist
-Biologist
-Botanist
-Zoologist
-Marine Biologist
-Ecologist
-Geologist
-Meteorologist
-Astronomer
-Software Developer
-Programmer
-Web Developer
-Game Developer
-App Developer
-Systems Analyst
-Network Administrator
-Database Administrator
-Cybersecurity Analyst
-IT Support Specialist
-Data Scientist
-AI Researcher
-Robotics Engineer
-Mechanical Engineer
-Electrical Engineer
-Civil Engineer
-Chemical Engineer
-Aerospace Engineer
-Industrial Engineer
-Biomedical Engineer
-Environmental Engineer
-Fashion Designer
-Graphic Designer
-Interior Designer
-Product Designer
-Animator
-Illustrator
-Architectural Drafter
-Model Maker
-Tailor
-Seamstress
-Jeweler
-Blacksmith
-Potter
-Woodworker
-Glassblower
-Leatherworker
-Craftsperson
-Tattoo Artist
-Makeup Artist
-Hairstylist
-Cosmetologist
-Manicurist
-Spa Therapist
-Massage Therapist
-Personal Shopper
-Salesperson
-Retail Associate
-Cashier
-Store Manager
-Customer Service Representative
-Call Center Agent
-Marketing Specialist
-Advertising Executive
-Brand Manager
-Public Relations Specialist
-Event Planner
-Travel Agent
-Tour Guide
-Real Estate Agent
-Property Manager
-Landscaper
-Gardener
-Groundskeeper
-Horticulturist
-Florist
-Warehouse Worker
-Forklift Operator
-Courier
-Delivery Driver
-Postal Worker
-Inventory Clerk
-Supply Chain Manager
-Logistics Coordinator
-Purchasing Agent
-Accountant
-Auditor
-Financial Analyst
-Banker
-Loan Officer
-Insurance Agent
 Actuary
-Tax Preparer
-Bookkeeper
-Investment Advisor
-Stockbroker
-Business Consultant
-Entrepreneur
-CEO
-Manager
-Project Manager
-HR Specialist
-Recruiter
-Office Assistant
 Administrative Assistant
-Secretary
-Executive Assistant
-Receptionist
-Data Entry Clerk
-Clerk
-Paralegal
-Legal Assistant
-Court Reporter
-Mediator
-Diplomat
-Politician
-Campaign Manager
-Speechwriter
-Public Policy Analyst
-Urban Planner
-Civil Servant
-Customs Officer
-Immigration Officer
-Military Officer
-Intelligence Analyst
-Secret Service Agent
-Forensic Scientist
-Crime Scene Investigator
-Coroner
-Medical Examiner
-Pathologist
-Radiologist
+Advertising Executive
+Aerospace Engineer
+AI Researcher
+Air Traffic Controller
 Anesthesiologist
-Optometrist
-Orthodontist
-Chiropractor
-Pediatrician
-Gynecologist
-Oncologist
-Dermatologist
-Psychiatrist
-Phlebotomist
-Medical Assistant
-Lab Technician
+Animal Trainer
+Animator
+Anthropologist
+App Developer
+Archaeologist
+Architect
+Architectural Drafter
+Archivist
+Art Director
+Astronaut
+Astronomer
+Athletic Trainer
+Auditor
+Author
+Baker
+Banker
+Barista
+Bartender
+Biologist
+Biomedical Engineer
 Biotech Researcher
-Pharmaceutical Scientist
+Blacksmith
+Blogger
+Bookkeeper
+Botanist
+Brand Manager
+Brewer
+Bus Driver
+Business Consultant
+Butcher
+Butler
+Call Center Agent
+Campaign Manager
+Carpenter
+Cartographer
+Cashier
+Caterer
+CEO
+Charity Worker
+Chauffeur
+Chef
+Chemical Engineer
+Chemist
 Chemistry Technician
+Childcare Worker
+Chiropractor
+Cinematographer
+Civil Engineer
+Civil Planner
+Civil Servant
+Clergy Member
+Clerk
+Coach
+College Lecturer
+Composer
+Conductor
+Construction Worker
+Content Creator
+Cook
+Copywriter
+Coroner
+Cosmetologist
+Costume Designer
+Courier
+Court Reporter
+Craftsperson
+Crime Scene Investigator
+Critic
+Cruise Director
+Curator
+Custodian
+Customer Service Representative
+Customs Officer
+Cybersecurity Analyst
+Dance Instructor
+Data Entry Clerk
+Data Scientist
+Database Administrator
+Delivery Driver
+Demographer
+Dentist
+Dermatologist
+Detective
+Dietitian
+Diplomat
+Director
+Distiller
+DJ
+Doctor
+Dog Walker
+E-sports Player
+Ecologist
+Economist
+Editor
+Educator
+Electrical Engineer
+Electrician
+Elementary School Teacher
+Engineer
+Entrepreneur
+Environmental Engineer
 Environmental Scientist
 Epidemiologist
-Virologist
-Microbiologist
-Quality Control Inspector
-Safety Officer
-Health Inspector
-Occupational Therapist
-Speech Therapist
-Dietitian
-Nutritionist
-Childcare Worker
-Preschool Teacher
-Elementary School Teacher
-High School Teacher
-College Lecturer
-Tutor
-Coach
-Athletic Trainer
-Sports Official
-Referee
-Scout
-Sports Agent
-Model
-Influencer
-Content Creator
-Social Media Manager
-YouTuber
-Streamer
-E-sports Player
-Game Tester
-QA Tester
-Sound Engineer
-Lighting Technician
-Stagehand
-Set Designer
-Costume Designer
-Prop Master
-Art Director
-Curator
-Museum Technician
-Archivist
-Restorer
-Tourism Manager
-Hotel Concierge
-Cruise Director
-Bartender
-Sommelier
-Brewer
-Winemaker
-Distiller
-Butler
-Valet
-Chauffeur
-Private Chef
-Personal Assistant
 Estate Manager
 Event Coordinator
-Wedding Planner
+Event Planner
+Executive Assistant
+Farmer
+Fashion Designer
+Financial Analyst
+Firefighter
+Fisherman
+Fitness Instructor
+Flight Attendant
+Florist
+Forensic Scientist
+Forester
+Forklift Operator
 Fundraiser
-Charity Worker
-Missionary
-Clergy Member
-Pastor
-Priest
-Rabbi
-Imam
-Monk
-Nun
-Philosopher
-Educator
-Lecturer
-Researcher
-Scholar
-Critic
-Reviewer
-Historian
+Game Developer
+Game Tester
+Gardener
 Genealogist
-Statistician
-Surveyor
-Cartographer
-Urban Designer
-Civil Planner
-Demographer
-Archivist
-Curator
+Geologist
+Glassblower
+Graphic Designer
+Groundskeeper
+Gynecologist
+Hairstylist
+Health Inspector
+Heavy Equipment Operator
+High School Teacher
+Historian
+Horticulturist
+Host
+Hotel Concierge
+Hotel Manager
+Housekeeper
+HR Specialist
+Illustrator
+Imam
+Immigration Officer
+Industrial Engineer
+Influencer
+Insurance Agent
+Intelligence Analyst
+Interior Designer
+Interpreter
+Inventory Clerk
+Investment Advisor
+IT Support Specialist
+Janitor
+Jeweler
+Journalist
+Judge
+Lab Technician
+Landscaper
+Lawyer
+Leatherworker
+Lecturer
+Legal Assistant
+Librarian
+Lifeguard
+Lighting Technician
+Loan Officer
+Logistics Coordinator
+Maintenance Worker
+Makeup Artist
+Manager
+Manicurist
+Marine Biologist
+Marketing Specialist
+Mason
+Massage Therapist
+Mathematician
+Mechanic
+Mechanical Engineer
+Mediator
+Medical Assistant
+Medical Examiner
+Meteorologist
+Microbiologist
+Military Officer
+Missionary
+Model
+Model Maker
+Monk
+Museum Technician
+Music Producer
+Musician
+Network Administrator
+News Anchor
 Numismatist
+Nun
+Nurse
+Nutritionist
+Occupational Therapist
+Office Assistant
+Oncologist
+Optometrist
+Orthodontist
+Painter
+Paralegal
+Paramedic
+Park Ranger
+Pastor
+Pathologist
+Pediatrician
+Personal Assistant
+Personal Shopper
+Personal Trainer
+Pharmaceutical Scientist
+Pharmacist
 Philatelist
+Philosopher
+Phlebotomist
+Photographer
+Physicist
+Pilot
+Playwright
+Plumber
+Podcaster
+Poet
+Police Officer
+Political Scientist
+Politician
+Postal Worker
+Potter
+Preschool Teacher
+Priest
+Private Chef
+Producer
+Product Designer
+Professor
+Programmer
+Project Manager
+Prop Master
+Property Manager
+Psychiatrist
+Psychologist
+Public Policy Analyst
+Public Relations Specialist
+Purchasing Agent
+QA Tester
+Quality Control Inspector
+Rabbi
+Radio Host
+Radiologist
+Rancher
+Real Estate Agent
+Receptionist
+Recruiter
+Referee
+Reporter
+Researcher
+Restorer
+Retail Associate
+Reviewer
+Robotics Engineer
+Roofer
+Safety Officer
+Sailor
+Salesperson
+Scholar
+Scientist
+Scout
+Screenwriter
+Seamstress
+Secret Service Agent
+Secretary
+Security Guard
+Set Designer
+Ship Captain
+Singer
+Social Media Manager
+Social Worker
+Sociologist
+Software Developer
+Soldier
+Sommelier
+Sound Engineer
+Spa Therapist
+Speech Therapist
+Speechwriter
+Sports Agent
+Sports Official
+Stagehand
+Statistician
+Stockbroker
+Store Manager
+Streamer
+Supply Chain Manager
+Surgeon
+Surveyor
+Systems Analyst
+Tailor
+Tattoo Artist
+Tax Preparer
+Taxi Driver
+Teacher
+Therapist
+Tour Guide
+Tourism Manager
+Train Conductor
+Translator
+Travel Agent
+Truck Driver
+Tutor
+Urban Designer
+Urban Planner
+Valet
+Veterinarian
+Videographer
+Virologist
+Waiter
+Waitress
+Warehouse Worker
+Web Developer
+Wedding Planner
+Welder
+Winemaker
+Woodworker
+Writer
+Yoga Instructor
+YouTuber
+Zookeeper
+Zoologist

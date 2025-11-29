@@ -1,114 +1,105 @@
-William Shakespeare
-Jane Austen
-Charles Dickens
-Emily Brontë
-Charlotte Brontë
-Mark Twain
-Leo Tolstoy
-Fyodor Dostoevsky
-Victor Hugo
-Miguel de Cervantes
-Herman Melville
-J.R.R. Tolkien
-C.S. Lewis
-J.K. Rowling
-George Orwell
-Aldous Huxley
-Ray Bradbury
-Harper Lee
-F. Scott Fitzgerald
-Ernest Hemingway
-John Steinbeck
-Gabriel García Márquez
-Paulo Coelho
-Dan Brown
-Agatha Christie
-Vladimir Nabokov
-Oscar Wilde
-Bram Stoker
-Mary Shelley
-Robert Louis Stevenson
-Franz Kafka
-Joseph Heller
-Kurt Vonnegut
-Ken Kesey
-Cormac McCarthy
-Toni Morrison
-Ralph Ellison
-Richard Wright
-Chinua Achebe
-Alan Paton
-Khaled Hosseini
-Yann Martel
-Margaret Atwood
-Emma Donoghue
-R.J. Palacio
-Suzanne Collins
-Veronica Roth
-Rick Riordan
-Stephen King
-Neil Gaiman
-Brandon Sanderson
-George R.R. Martin
-Jules Verne
-H.G. Wells
-Arthur Conan Doyle
-Edgar Allan Poe
-Emily Dickinson
-Walt Whitman
-John Milton
-Dante Alighieri
-Antoine de Saint-Exupéry
-Alexandre Dumas
-Charles Baudelaire
-Jonathan Swift
-Daniel Defoe
-Lewis Carroll
-John Locke
-Voltaire
-Jean-Jacques Rousseau
-Immanuel Kant
-Søren Kierkegaard
-Friedrich Nietzsche
-Karl Marx
-Sigmund Freud
-Carl Jung
-Simone de Beauvoir
-Albert Camus
-Jean-Paul Sartre
-Homer
-Sophocles
-Euripides
 Aeschylus
-Geoffrey Chaucer
-Oscar Wilde
-T.S. Eliot
-Virginia Woolf
-James Joyce
-Ernest Hemingway
-F. Scott Fitzgerald
-George Eliot
-Thomas Hardy
-Daphne du Maurier
-E.M. Forster
-Herman Hesse
-Isabel Allende
-Louisa May Alcott
-Willa Cather
+Agatha Christie
+Alan Paton
+Albert Camus
+Aldous Huxley
+Alexandre Dumas
 Anne Rice
-Mary Higgins Clark
+Antoine de Saint-Exupéry
+Arthur Conan Doyle
+Beatrix Potter
+Bram Stoker
+Brandon Sanderson
+C.S. Lewis
+Carl Jung
+Charles Baudelaire
+Charles Dickens
+Charlotte Brontë
+Chinua Achebe
+Cormac McCarthy
+Dan Brown
+Daniel Defoe
 Danielle Steel
+Dante Alighieri
+Daphne du Maurier
+Dr. Seuss
+E.M. Forster
+Edgar Allan Poe
+Emily Brontë
+Emily Dickinson
+Emma Donoghue
+Ernest Hemingway
+Euripides
+F. Scott Fitzgerald
+Franz Kafka
+Friedrich Nietzsche
+Fyodor Dostoevsky
+Gabriel García Márquez
+Geoffrey Chaucer
+George Eliot
+George Orwell
+George R.R. Martin
+H.G. Wells
+Harper Lee
+Herman Hesse
+Herman Melville
+Homer
+Immanuel Kant
+Isabel Allende
+J.K. Rowling
+J.R.R. Tolkien
+James Joyce
+Jane Austen
+Jean-Jacques Rousseau
+Jean-Paul Sartre
+John Locke
+John Milton
+John Steinbeck
+Jonathan Swift
+Joseph Heller
+Judy Blume
+Jules Verne
+Karl Marx
+Ken Kesey
+Khaled Hosseini
+Kurt Vonnegut
+Leo Tolstoy
+Lewis Carroll
+Louisa May Alcott
+Madeleine L’Engle
+Margaret Atwood
+Margaret Wise Brown
+Mark Twain
+Mary Higgins Clark
+Mary Shelley
+Miguel de Cervantes
+Neil Gaiman
+Oscar Wilde
+Paulo Coelho
+Philip Pullman
+R.J. Palacio
+Ralph Ellison
+Ray Bradbury
+Richard Wright
+Rick Riordan
+Roald Dahl
+Robert Louis Stevenson
+Sigmund Freud
+Simone de Beauvoir
+Sophocles
+Stephen King
 Stephenie Meyer
 Suzanne Collins
+Søren Kierkegaard
+T.S. Eliot
+Thomas Hardy
+Toni Morrison
 Veronica Roth
-Rick Riordan
-Judy Blume
-Roald Dahl
-C.S. Lewis
-J.R.R. Tolkien
-Philip Pullman
-Madeleine L’Engle
-Beatrix Potter
-Dr. Seuss
-Lewis Carroll
-Margaret Wise Brown
+Victor Hugo
+Virginia Woolf
+Vladimir Nabokov
+Voltaire
+Walt Whitman
+Willa Cather
+William Shakespeare
+Yann Martel

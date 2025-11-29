@@ -1,293 +1,340 @@
-To Kill a Mockingbird
 1984
-Animal Farm
-Brave New World
-Fahrenheit 451
-The Great Gatsby
-Moby-Dick
-Pride and Prejudice
-Sense and Sensibility
-Emma
-Wuthering Heights
-Jane Eyre
-Great Expectations
-Oliver Twist
-David Copperfield
-A Tale of Two Cities
-Crime and Punishment
-The Brothers Karamazov
-War and Peace
-Anna Karenina
-The Idiot
-Les Misérables
-The Hunchback of Notre-Dame
-Don Quixote
-One Hundred Years of Solitude
-Love in the Time of Cholera
-The Old Man and the Sea
-A Farewell to Arms
-The Sun Also Rises
-The Catcher in the Rye
-Franny and Zooey
-Lord of the Flies
-The Lord of the Rings
-The Hobbit
-The Silmarillion
-Harry Potter and the Sorcerer’s Stone
-Harry Potter and the Chamber of Secrets
-Harry Potter and the Prisoner of Azkaban
-Harry Potter and the Goblet of Fire
-Harry Potter and the Order of the Phoenix
-Harry Potter and the Half-Blood Prince
-Harry Potter and the Deathly Hallows
-The Chronicles of Narnia
-The Lion, the Witch and the Wardrobe
-Prince Caspian
-The Horse and His Boy
-The Magician’s Nephew
-The Last Battle
-Alice’s Adventures in Wonderland
-Through the Looking-Glass
-The Adventures of Huckleberry Finn
-The Adventures of Tom Sawyer
-Murder on the Orient Express
-And Then There Were None
-The ABC Murders
-Death on the Nile
-The Da Vinci Code
-Angels & Demons
-Inferno
-Origin
-Deception Point
-The Alchemist
-The Pilgrimage
-The Little Prince
-The Count of Monte Cristo
-The Three Musketeers
-The Black Tulip
-The Divine Comedy
-Paradise Lost
-Beowulf
-The Odyssey
-The Iliad
-Gulliver’s Travels
-Robinson Crusoe
-Dracula
-Frankenstein
-The Strange Case of Dr Jekyll and Mr Hyde
-The Picture of Dorian Gray
-Lolita
-Pale Fire
-Catch-22
-Slaughterhouse-Five
-Cat’s Cradle
-The Trial
-The Metamorphosis
-The Castle
-One Flew Over the Cuckoo’s Nest
-Of Mice and Men
-The Grapes of Wrath
-East of Eden
-Cannery Row
-The Road
-No Country for Old Men
-Blood Meridian
-All the Pretty Horses
-Beloved
-Song of Solomon
-The Bluest Eye
-Sula
-Invisible Man
-Native Son
-Black Boy
-Things Fall Apart
-Arrow of God
-Cry, the Beloved Country
-The Kite Runner
-A Thousand Splendid Suns
-And the Mountains Echoed
-Life of Pi
-The Handmaid’s Tale
-Oryx and Crake
-The Testaments
-Alias Grace
-The Blind Assassin
-Room
-Wonder
-The Hunger Games
-Catching Fire
-Mockingjay
-Divergent
-Insurgent
-Allegiant
-Percy Jackson and the Olympians
-The Lightning Thief
-The Sea of Monsters
-The Titan’s Curse
-The Battle of the Labyrinth
-The Last Olympian
-The Maze Runner
-The Scorch Trials
-The Death Cure
-The Kill Order
-The Fever Code
-The Giver
-Gathering Blue
-Messenger
-Son
-Number the Stars
-The Book Thief
-The Secret Garden
-Anne of Green Gables
-Little Women
-Little Men
-Jo’s Boys
-Charlotte’s Web
-Stuart Little
-The Wind in the Willows
-Peter Pan
-Winnie-the-Pooh
-Matilda
-Charlie and the Chocolate Factory
-James and the Giant Peach
-The BFG
-Fantastic Mr. Fox
-The Witches
-The Twits
-George’s Marvellous Medicine
-The Magic Finger
-Holes
-Bridge to Terabithia
-Where the Red Fern Grows
-Hatchet
-Island of the Blue Dolphins
-My Side of the Mountain
-Tales of a Fourth Grade Nothing
-Double Fudge
-Diary of a Wimpy Kid
-Rodrick Rules
-The Last Straw
-Dog Days
-The Ugly Truth
-Cabin Fever
-The Third Wheel
-Hard Luck
-The Long Haul
-Old School
-Double Down
-The Getaway
-The Meltdown
-Wrecking Ball
-The Deep End
-Big Shot
-Diper Överlöde
-Rowley Jefferson’s Awesome Friendly Adventure
-The Hobbit
-The Fellowship of the Ring
-The Two Towers
-The Return of the King
-The Silmarillion
-The Lion, the Witch and the Wardrobe
-Prince Caspian
-The Voyage of the Dawn Treader
-The Silver Chair
-The Horse and His Boy
-The Magician’s Nephew
-The Last Battle
-Eragon
-Eldest
-Brisingr
-Inheritance
-The Name of the Wind
-The Wise Man’s Fear
-The Slow Regard of Silent Things
-A Court of Thorns and Roses
-A Court of Mist and Fury
-A Court of Wings and Ruin
+A Clockwork Orange
 A Court of Frost and Starlight
-Throne of Glass
+A Court of Mist and Fury
+A Court of Thorns and Roses
+A Court of Wings and Ruin
+A Death in the Family
+A Farewell to Arms
+A Handful of Dust
+A House for Mr Biswas
+A Passage to India
+A Tale of Two Cities
+A Thousand Splendid Suns
+Alias Grace
+Alice’s Adventures in Wonderland
+All the King's Men
+All the Pretty Horses
+Allegiant
+American Gods
+American Pastoral
+An American Tragedy
+Anansi Boys
+And the Mountains Echoed
+And Then There Were None
+Angels & Demons
+Animal Farm
+Anna Karenina
+Anne of Green Gables
+Appointment in Samarra
+Are You There God? It's Me, Margaret
+Arrow of God
+Artemis Fowl
+At Swim-Two-Birds
+Atonement
+Beloved
+Beowulf
+Big Shot
+Black Boy
+Blood Meridian
+Brave New World
+Breaking Dawn
+Brideshead Revisited
+Bridge to Terabithia
+Brisingr
+Cabin Fever
+Call It Sleep
+Cannery Row
+Catch-22
+Catching Fire
+Cat’s Cradle
+Charlie and the Chocolate Factory
+Charlotte’s Web
+Coraline
+Crime and Punishment
+Crooked Kingdom
 Crown of Midnight
-Heir of Fire
-Queen of Shadows
+Cry, the Beloved Country
+David Copperfield
+Death Comes for the Archbishop
+Death on the Nile
+Deception Point
+Deliverance
+Diary of a Wimpy Kid
+Diper Överlöde
+Divergent
+Dog Days
+Dog Soldiers
+Don Quixote
+Double Down
+Double Fudge
+Dracula
+East of Eden
+Eclipse
+Eldest
+Emma
 Empire of Storms
-Tower of Dawn
-Kingdom of Ash
-Red Queen
+Eragon
+Fahrenheit 451
+Falconer
+Fantastic Beasts and Where to Find Them
+Fantastic Mr. Fox
+Fortunately, the Milk
+Fragile Things
+Frankenstein
+Franny and Zooey
+Gathering Blue
+George’s Marvellous Medicine
 Glass Sword
+Go Tell It on the Mountain
+Gone with the Wind
+Good Omens
+Gravity's Rainbow
+Great Expectations
+Gulliver’s Travels
+Hard Luck
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Deathly Hallows
+Harry Potter and the Goblet of Fire
+Harry Potter and the Half-Blood Prince
+Harry Potter and the Order of the Phoenix
+Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Sorcerer’s Stone
+Harry Potter: The Chamber of Secrets
+Harry Potter: The Deathly Hallows
+Harry Potter: The Goblet of Fire
+Harry Potter: The Half-Blood Prince
+Harry Potter: The Order of the Phoenix
+Harry Potter: The Philosopher’s Stone
+Harry Potter: The Prisoner of Azkaban
+Hatchet
+Heir of Fire
+Heroes of Olympus
+Herzog
+Holes
+Housekeeping
+I, Claudius
+Inferno
+Infinite Jest
+Inheritance
+Insurgent
+Invisible Man
+Island of the Blue Dolphins
+James and the Giant Peach
+Jane Eyre
+Jo’s Boys
+Kingdom of Ash
 King’s Cage
-War Storm
+Les Misérables
+Life of Pi
+Light in August
+Little Men
+Little Women
+Lolita
+Lord of the Flies
+Love in the Time of Cholera
+Loving
+Lucifer
+Lucky Jim
+Magnus Chase
+Matilda
+Messenger
+Midnight Sun
+Midnight's Children
+Moby-Dick
+Mockingjay
+Momo
+Money
+Mrs. Dalloway
+Murder on the Orient Express
+My Side of the Mountain
+Naked Lunch
+Native Son
+Neuromancer
+Never Let Me Go
+Neverwhere
+New Moon
+No Country for Old Men
+Number the Stars
+Odd and the Frost Giants
+Of Mice and Men
+Old School
+Oliver Twist
+On the Road
+One Flew Over the Cuckoo's Nest
+One Flew Over the Cuckoo’s Nest
+One Hundred Years of Solitude
+Origin
+Oryx and Crake
+Pale Fire
+Paradise Lost
+Percy Jackson
+Percy Jackson and the Olympians
+Peter Pan
+Play It As It Lays
+Portnoy’s Complaint
+Possession
+Pride and Prejudice
+Prince Caspian
+Queen of Shadows
+Quidditch Through the Ages
+Rabbit, Run
+Ragtime
+Red Harvest
+Red Queen
+Revolutionary Road
+Robinson Crusoe
+Rodrick Rules
+Room
+Rowley Jefferson’s Awesome Friendly Adventure
+Ruin and Rising
+Rule of Wolves
+Sense and Sensibility
 Shadow and Bone
 Siege and Storm
-Ruin and Rising
 Six of Crows
-Crooked Kingdom
-Rule of Wolves
-Shadow and Bone 
-Crooked Kingdom
-The Hunger Games 
-Divergent 
-The Maze Runner 
-Percy Jackson 
-Heroes of Olympus 
-Magnus Chase 
-The Trials of Apollo 
-The Kane Chronicles
-Artemis Fowl 
-The Mortal Instruments 
-The Infernal Devices 
-The Dark Artifices 
-The Last Hours 
-The Wicked Powers 
-Twilight
-New Moon
-Eclipse
-Breaking Dawn
-Midnight Sun
-The Twilight Saga
-The Hunger Games
-Catching Fire 
-Mockingjay 
-The Hobbit
-The Lord of the Rings
-The Silmarillion 
-Harry Potter: The Philosopher’s Stone
-Harry Potter: The Chamber of Secrets
-Harry Potter: The Prisoner of Azkaban
-Harry Potter: The Goblet of Fire
-Harry Potter: The Order of the Phoenix
-Harry Potter: The Half-Blood Prince
-Harry Potter: The Deathly Hallows
-Fantastic Beasts and Where to Find Them
-Quidditch Through the Ages
-The Tales of Beedle the Bard
-Alice’s Adventures in Wonderland
-Through the Looking-Glass
-The Wizard of Oz
-Ozma of Oz
-Dorothy and the Wizard in Oz
-The Road to Oz
-The Emerald City of Oz
-The Patchwork Girl of Oz
-Tik-Tok of Oz
-The Scarecrow of Oz
-Rinkitink in Oz
-The Lost Princess of Oz
-The Tin Woodman of Oz
-The Magic of Oz
-Glinda of Oz
-Momo
-Coraline
-The Graveyard Book
-Stardust
-American Gods
-Anansi Boys
-Good Omens
-Neverwhere
-The Ocean at the End of the Lane
+Slaughterhouse-Five
 Smoke and Mirrors
-Fragile Things
-The Sandman
-Lucifer
+Snow Crash
+Son
+Song of Solomon
+Stardust
+Stuart Little
+Sula
+Tales of a Fourth Grade Nothing
+The ABC Murders
+The Adventures of Augie March
+The Adventures of Huckleberry Finn
+The Adventures of Tom Sawyer
+The Alchemist
+The Assistant
+The Battle of the Labyrinth
+The Berlin Stories
+The BFG
+The Big Sleep
+The Black Tulip
+The Blind Assassin
+The Bluest Eye
+The Book Thief
 The Books of Magic
-Fortunately, the Milk
-Odd and the Frost Giants
+The Bridge of San Luis Rey
+The Brothers Karamazov
+The Castle
+The Catcher in the Rye
+The Chronicles of Narnia
+The Confessions of Nat Turner
+The Corrections
+The Count of Monte Cristo
+The Crying of Lot 49
+The Da Vinci Code
+The Dark Artifices
+The Day of the Locust
+The Death Cure
+The Death of the Heart
+The Deep End
+The Divine Comedy
+The Fellowship of the Ring
+The Fever Code
+The French Lieutenant's Woman
+The Getaway
+The Giver
+The Golden Notebook
+The Grapes of Wrath
+The Graveyard Book
+The Great Gatsby
+The Handmaid’s Tale
+The Heart Is a Lonely Hunter
+The Heart of the Matter
+The Hobbit
+The Horse and His Boy
+The Hunchback of Notre-Dame
+The Hunger Games
+The Idiot
+The Iliad
+The Infernal Devices
+The Kane Chronicles
+The Kill Order
+The Kite Runner
+The Last Battle
+The Last Hours
+The Last Olympian
+The Last Straw
+The Lightning Thief
+The Lion, the Witch and the Wardrobe
+The Little Prince
+The Long Haul
+The Lord of the Rings
+The Magic Finger
+The Magician’s Nephew
+The Man Who Loved Children
+The Maze Runner
+The Meltdown
+The Metamorphosis
+The Mortal Instruments
+The Moviegoer
+The Name of the Wind
+The Ocean at the End of the Lane
+The Odyssey
+The Old Man and the Sea
+The Painted Bird
+The Picture of Dorian Gray
+The Pilgrimage
+The Power and the Glory
+The Prime of Miss Jean Brodie
+The Recognitions
+The Return of the King
+The Road
+The Sandman
+The Scorch Trials
+The Sea of Monsters
+The Secret Garden
+The Sheltering Sky
+The Silmarillion
+The Silver Chair
+The Slow Regard of Silent Things
+The Sot-Weed Factor
+The Sound and the Fury
+The Sportswriter
+The Spy Who Came in from the Cold
+The Strange Case of Dr Jekyll and Mr Hyde
+The Sun Also Rises
+The Tales of Beedle the Bard
+The Testaments
+The Third Wheel
+The Three Musketeers
+The Titan’s Curse
+The Trial
+The Trials of Apollo
+The Twilight Saga
+The Twits
+The Two Towers
+The Ugly Truth
+The Voyage of the Dawn Treader
+The Wicked Powers
+The Wind in the Willows
+The Wise Man’s Fear
+The Witches
+The Wizard of Oz
+Their Eyes Were Watching God
+Things Fall Apart
+Throne of Glass
+Through the Looking-Glass
+To Kill a Mockingbird
+To the Lighthouse
+Tower of Dawn
+Tropic of Cancer
+Twilight
+Ubik
+Under the Net
+Under the Volcano
+War and Peace
+War Storm
+Watchmen
+Where the Red Fern Grows
+White Noise
+White Teeth
+Wide Sargasso Sea
+Winnie-the-Pooh
+Wonder
+Wrecking Ball
+Wuthering Heights

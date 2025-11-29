@@ -1,292 +1,289 @@
-Apple
-Banana
-Orange
-Lemon
-Lime
-Grapefruit
-Tangerine
-Mandarin
-Pineapple
-Mango
-Papaya
-Guava
-Passionfruit
-Kiwi
-Watermelon
-Cantaloupe
-Honeydew
-Strawberry
-Raspberry
-Blueberry
-Blackberry
-Cranberry
-Cherry
-Peach
-Nectarine
-Plum
-Apricot
-Fig
-Date
-Pomegranate
-Pear
-Grape
-Coconut
-Avocado
-Tomato
-Olive
-
-Cucumber
-Bell Pepper
-Chili Pepper
-Eggplant
-Zucchini
-Squash
-Pumpkin
-Carrot
-Potato
-Sweet Potato
-Yam
-Beet
-Turnip
-Radish
-Parsnip
-Onion
-Garlic
-Leek
-Shallot
-Scallion
-Celery
-Lettuce
-Spinach
-Kale
-Collard Greens
-Swiss Chard
-Arugula
-Cabbage
-Broccoli
-Cauliflower
-Brussels Sprouts
-Asparagus
-Artichoke
-Okra
-Mushroom
-Fennel
-Bok Choy
-Watercress
-Endive
-Radicchio
-Chard
-Microgreens
-Sprouts
-Bean Sprout
+Abalone
+Agave Nectar
 Alfalfa Sprout
-Broccoli Sprout
-Wheatgrass
-Corn
-Rice
-Wheat
-Barley
-Oats
-Rye
-Millet
-Sorghum
-Quinoa
-Buckwheat
-Amaranth
-Teff
-Spelt
-Kamut
-Triticale
-Cassava
-Taro
-Plantain
-Breadfruit
-Pea
-Green Bean
-Lentil
-Chickpea
-Soybean
-Edamame
-Lima Bean
-Kidney Bean
-Black Bean
-Navy Bean
-Pinto Bean
-Broad Bean
-Almond
-Walnut
-Pecan
-Hazelnut
-Cashew
-Pistachio
-Macadamia
-Brazil Nut
-Peanut
-Chestnut
-Pumpkin Seed
-Sunflower Seed
-Sesame Seed
-Chia Seed
-Flaxseed
-Hemp Seed
-Poppy Seed
-Caraway Seed
-Chicken
-Beef
-Pork
-Lamb
-Goat
-Turkey
-Duck
-Goose
-Rabbit
-Venison
-Bison
-Buffalo
-Kangaroo
 Alligator
-Frog Legs
-Snail
-Ostrich
-Quail
-Egg
-Salmon
-Tuna
+Almond
+Amaranth
+Anchovy
+Apple
+Apple Cider Vinegar
+Apricot
+Arrowroot
+Artichoke
+Arugula
+Asparagus
+Avocado
+Avocado Oil
+Baking Powder
+Baking Soda
+Balsamic Vinegar
+Banana
+Barley
+Basil
+Bass
+Bay Leaf
+Bean Sprout
+Beef
+Beet
+Bell Pepper
+Bison
+Black Bean
+Blackberry
+Blue Cheese
+Blueberry
+Bok Choy
+Brazil Nut
+Breadfruit
+Broad Bean
+Broccoli
+Broccoli Sprout
+Brown Sugar
+Brussels Sprouts
+Buckwheat
+Buffalo
+Butter
+Buttermilk
+Cabbage
+Canola Oil
+Cantaloupe
+Caraway Seed
+Cardamom
+Carrot
+Cashew
+Cassava
+Catfish
+Cauliflower
+Caviar
+Cayenne
+Celery
+Chard
+Cheddar
+Cheese
+Cherry
+Chestnut
+Chia Seed
+Chicken
+Chickpea
+Chili Pepper
+Chili Powder
+Chocolate
+Cilantro
+Cinnamon
+Clam
+Clove
+Cocoa
+Cocoa Butter
+Coconut
+Coconut Oil
 Cod
+Coffee Bean
+Collard Greens
+Coriander
+Corn
+Corn Syrup
+Cornmeal
+Cornstarch
+Cottage Cheese
+Crab
+Cranberries
+Cranberry
+Crawfish
+Cream
+Cucumber
+Cumin
+Currant
+Date
+Dill
+Dried Apricot
+Duck
+Dulse
+Edamame
+Egg
+Eggplant
+Endive
+Fennel
+Fermented Bean Paste
+Feta
+Fig
+Flaxseed
+Flour
+Frog Legs
+Garlic
+Ginger
+Goat
+Goat Cheese
+Goji Berry
+Goose
+Grape
+Grapefruit
+Green Bean
+Guava
 Haddock
 Halibut
-Trout
-Bass
-Snapper
-Mackerel
-Sardine
-Anchovy
+Hazelnut
+Hemp Seed
 Herring
-Catfish
-Tilapia
-Swordfish
-Marlin
-Shark
-Octopus
-Squid
-Crab
-Lobster
-Shrimp
-Prawn
-Crawfish
-Clam
-Mussel
-Oyster
-Scallop
-Abalone
-Sea Urchin
-Caviar
-Milk
-Cheese
-Butter
-Yogurt
-Cream
-Sour Cream
-Buttermilk
-Cottage Cheese
-Ricotta
-Mozzarella
-Cheddar
-Swiss Cheese
-Blue Cheese
-Goat Cheese
-Feta
-Parmesan
-Ice Cream
-Tofu
-Tempeh
-Seitan
-Flour
-Cornmeal
-Pasta
-Rice Noodles
-Tortilla
-Yeast
-Baking Soda
-Baking Powder
-Cornstarch
-Arrowroot
-Tapioca
-Sugar
-Brown Sugar
-Powdered Sugar
 Honey
-Maple Syrup
-Molasses
-Corn Syrup
-Agave Nectar
-Stevia
-Salt
-Vinegar
-Balsamic Vinegar
-Apple Cider Vinegar
-Rice Vinegar
-White Vinegar
-Pepper
-Cinnamon
-Nutmeg
-Clove
-Ginger
-Turmeric
-Cumin
-Coriander
-Cardamom
-Paprika
-Cayenne
-Chili Powder
-Oregano
-Thyme
-Rosemary
-Basil
-Parsley
-Cilantro
-Sage
-Dill
-Bay Leaf
-Mint
-Vanilla
-Olive Oil
-Coconut Oil
-Vegetable Oil
-Canola Oil
-Sunflower Oil
-Peanut Oil
-Sesame Oil
-Avocado Oil
-Truffle Oil
-Soy Sauce
-Mustard Seed
-Ketchup
-Mayonnaise
+Honeydew
 Hot Sauce
-Pickle
-Sauerkraut
-Kimchi
-Tahini
-Miso
-Fermented Bean Paste
-Cocoa
-Chocolate
-Cocoa Butter
-Coffee Bean
-Tea Leaf
-Dried Apricot
-Raisin
-Prune
-Fig
-Date
-Cranberries
-Currant
-Goji Berry
-Mulberry
-Seaweed
+Ice Cream
+Kale
+Kamut
+Kangaroo
 Kelp
+Ketchup
+Kidney Bean
+Kimchi
+Kiwi
+Lamb
+Leek
+Lemon
+Lentil
+Lettuce
+Lima Bean
+Lime
+Lobster
+Macadamia
+Mackerel
+Mandarin
+Mango
+Maple Syrup
+Marlin
+Mayonnaise
+Microgreens
+Milk
+Millet
+Mint
+Miso
+Molasses
+Mozzarella
+Mulberry
+Mushroom
+Mussel
+Mustard Seed
+Navy Bean
+Nectarine
 Nori
-Dulse
-Wakame
+Nutmeg
+Oats
+Octopus
+Okra
+Olive
+Olive Oil
+Onion
+Orange
+Oregano
+Ostrich
+Oyster
+Papaya
+Paprika
+Parmesan
+Parsley
+Parsnip
+Passionfruit
+Pasta
+Pea
+Peach
+Peanut
+Peanut Oil
+Pear
+Pecan
+Pepper
+Pickle
+Pineapple
+Pinto Bean
+Pistachio
+Plantain
+Plum
+Pomegranate
+Poppy Seed
+Pork
+Potato
+Powdered Sugar
+Prawn
+Prune
+Pumpkin
+Pumpkin Seed
+Quail
+Quinoa
+Rabbit
+Radicchio
+Radish
+Raisin
+Raspberry
+Rice
+Rice Noodles
+Rice Vinegar
+Ricotta
+Rosemary
+Rye
+Sage
+Salmon
+Salt
+Sardine
+Sauerkraut
+Scallion
+Scallop
+Sea Urchin
+Seaweed
+Seitan
+Sesame Oil
+Sesame Seed
+Shallot
+Shark
+Shrimp
+Snail
+Snapper
+Sorghum
+Sour Cream
+Soy Sauce
+Soybean
+Spelt
+Spinach
 Spirulina
+Sprouts
+Squash
+Squid
+Stevia
+Strawberry
+Sugar
+Sunflower Oil
+Sunflower Seed
+Sweet Potato
+Swiss Chard
+Swiss Cheese
+Swordfish
+Tahini
+Tangerine
+Tapioca
+Taro
+Tea Leaf
+Teff
+Tempeh
+Thyme
+Tilapia
+Tofu
+Tomato
+Tortilla
+Triticale
+Trout
+Truffle Oil
+Tuna
+Turkey
+Turmeric
+Turnip
+Vanilla
+Vegetable Oil
+Venison
+Vinegar
+Wakame
+Walnut
+Watercress
+Watermelon
+Wheat
+Wheatgrass
+White Vinegar
+Yam
+Yeast
+Yogurt
+Zucchini

@@ -1,143 +1,130 @@
-Car
-Truck
-SUV
-Van
-Minivan
-Pickup Truck
-Motorcycle
-Moped
-Scooter
-Bicycle
-Electric Bicycle
-Tractor
-Bus
-Coach
-Shuttle Bus
-School Bus
-Taxi
-Limousine
-Ambulance
-Fire Truck
-Police Car
-Tow Truck
-Delivery Van
-Cargo Truck
-Semi-Truck
 18-Wheeler
-Box Truck
-Flatbed Truck
-Dump Truck
-Garbage Truck
-Ice Cream Truck
-Food Truck
-ATV
-Dirt Bike
-Go-Kart
-Snowmobile
-Golf Cart
-Segway
-Rickshaw
-Trolley
-Tram
-Light Rail
-Subway Train
-Freight Train
-Passenger Train
-High-Speed Train
-Monorail
-Hovercraft
-Boat
-Sailboat
-Yacht
-Fishing Boat
-Speedboat
-Canoe
-Kayak
-Rowboat
-Pontoon Boat
-Ferry
-Cruise Ship
-Cargo Ship
-Container Ship
 Aircraft Carrier
-Submarine
-Jet Ski
-Hoverboard
 Airplane
-Jet
-Propeller Plane
-Glider
-Seaplane
-Biplane
-Helicopter
-Gyrocopter
-Hot Air Balloon
-Blimp
-Zeppelin
-Space Shuttle
-Rocket
-Satellite
-Electric Car
-Hybrid Car
-Convertible
-Coupe
-Sedan
-Hatchback
-Station Wagon
-Muscle Car
-Sports Car
-Supercar
-Luxury Car
-Off-Road Vehicle
-Jeep
-Tank
+Ambulance
 Armored Vehicle
-Military Truck
-Trike
-Unicycle
-Electric Scooter
-Snowcat
-Funicular
-Cable Car
-Ferry Boat
-Catamaran
-Trimaran
-Houseboat
-Jet Boat
-Riverboat
-Steamship
-Clipper
-Galleon
-Longship
-Suborbital Rocket
-Space Capsule
-Mars Rover
-Tanker
-Lorry
-Motorhome
-Campervan
-RV
-Pickup Camper
-Dune Buggy
-Sidecar Motorcycle
-Tuk-Tuk
-Pedicab
-Horse-Drawn Carriage
-Stagecoach
-Sleigh
-Rickshaw
-Handcart
-Wheelbarrow
-Skateboard
-Longboard
-Surfboard
-Sailboard
-Paraglider
-Hang Glider
-Dirigible
-Fighter Jet
+ATV
+Bicycle
+Biplane
+Blimp
+Boat
 Bomber
+Box Truck
+Bus
+Cable Car
+Campervan
+Canoe
+Car
 Cargo Plane
+Cargo Ship
+Cargo Truck
+Clipper
+Coach
+Container Ship
+Convertible
+Cruise Ship
+Delivery Van
+Dirigible
+Dirt Bike
 Drone
-Autogyro
-Tiltrotor Aircraft
+Dump Truck
+Dune Buggy
+Electric Bicycle
+Electric Car
+Electric Scooter
+Ferry
+Fighter Jet
+Fire Truck
+Fishing Boat
+Flatbed Truck
+Food Truck
+Freight Train
+Funicular
+Galleon
+Garbage Truck
+Glider
+Go-Kart
+Golf Cart
+Handcart
+Hang Glider
+Hatchback
+Helicopter
+High-Speed Train
+Horse-Drawn Carriage
+Hot Air Balloon
+Houseboat
+Hoverboard
+Hovercraft
+Hybrid Car
+Ice Cream Truck
+Jeep
+Jet
+Jet Boat
+Jet Ski
+Kayak
+Light Rail
+Limousine
+Longboard
+Longship
+Lorry
+Luxury Car
+Mars Rover
+Military Truck
+Minivan
+Monorail
+Moped
+Motorcycle
+Motorhome
+Muscle Car
+Paraglider
+Passenger Train
+Pedicab
+Pickup Camper
+Pickup Truck
+Police Car
+Pontoon Boat
+Propeller Plane
+Rickshaw
+Riverboat
+Rocket
+Rowboat
+RV
+Sailboard
+Sailboat
+Satellite
+School Bus
+Scooter
+Seaplane
+Sedan
+Segway
+Semi-Truck
+Shuttle Bus
+Sidecar Motorcycle
+Skateboard
+Sleigh
+Snowcat
+Snowmobile
+Space Capsule
+Space Shuttle
+Speedboat
+Sports Car
+Stagecoach
+Steamship
+Submarine
+Suborbital Rocket
+Subway Train
+Surfboard
+SUV
+Tank
+Taxi
+Tow Truck
+Tractor
+Tram
+Trike
+Trolley
+Truck
+Unicycle
+Van
+Wheelbarrow
+Yacht
+Zeppelin

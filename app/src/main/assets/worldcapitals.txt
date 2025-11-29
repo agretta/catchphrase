@@ -1,18 +1,14 @@
-Abidjan 
-Yamoussoukro 
+Abidjan
 Abu Dhabi
 Abuja
 Accra
 Adamstown
 Addis Ababa
-Aden 
-Sanaa 
-Episkopi Cantonment
+Aden
 Algiers
 Alofi
 Amman
-Amsterdam 
-The Hague 
+Amsterdam
 Andorra la Vella
 Ankara
 Antananarivo
@@ -21,9 +17,7 @@ Ashgabat
 Asmara
 Astana
 Asunción
-Atafu 
-Nukunonu 
-Fakaofo 
+Atafu
 Athens
 Avarua
 Baghdad
@@ -39,40 +33,38 @@ Beirut
 Belgrade
 Belmopan
 Berlin
-Bern 
+Bern
 Bishkek
 Bissau
-Bloemfontein 
-Cape Town 
-Pretoria 
+Bloemfontein
 Bogotá
-Brades 
-Plymouth 
+Brades
 Brasília
 Bratislava
 Brazzaville
 Bridgetown
 Brussels
-Brussels
 Bucharest
 Budapest
 Buenos Aires
+Bujumbura
 Cairo
 Canberra
+Cape Town
 Caracas
 Castries
 Charlotte Amalie
 Chișinău
 Cockburn Town
-Colombo 
-Sri Jayawardenepura Kotte 
+Colombo
+Comayagüela
 Conakry
 Copenhagen
-Cotonou 
-Porto-Novo 
+Cotonou
 Dakar
 Damascus
 Dhaka
+Diego Garcia
 Dili
 Djibouti
 Dodoma
@@ -81,16 +73,16 @@ Douglas
 Dublin
 Dushanbe
 Edinburgh of the Seven Seas
+Episkopi Cantonment
+Fakaofo
 Flying Fish Cove
 Freetown
 Funafuti
 Gaborone
 George Town
 Georgetown
-Georgetown
 Gibraltar
-Gitega 
-Bujumbura 
+Gitega
 Guatemala City
 Gustavia
 Hagåtña
@@ -102,12 +94,9 @@ Havana
 Helsinki
 Honiara
 Islamabad
-Jakarta 
-Nusantara
+Jakarta
 Jamestown
 Jerusalem
-Jerusalem
-Ramallah 
 Juba
 Kabul
 Kampala
@@ -116,28 +105,21 @@ Khartoum
 Kigali
 King Edward Point
 Kingston
-Kingston
 Kingstown
 Kinshasa
-Kuala Lumpur 
-Putrajaya 
+Kuala Lumpur
 Kuwait City
 Kyiv
-La Paz 
-Sucre 
-Laayoune 
-Tifariti 
+La Paz
+Laayoune
 Libreville
 Lilongwe
 Lima
 Lisbon
 Ljubljana
-Lobamba 
-Mbabane 
+Lobamba
 Lomé
 London
-London 
-Diego Garcia
 Luanda
 Lusaka
 Luxembourg
@@ -153,6 +135,7 @@ Mariehamn
 Marigot
 Maseru
 Mata Utu
+Mbabane
 Mexico City
 Minsk
 Mogadishu
@@ -162,18 +145,19 @@ Montevideo
 Moroni
 Moscow
 Muscat
+N'Djamena
 Nairobi
 Nassau
 Naypyidaw
-N'Djamena
 New Delhi
 Ngerulmud
 Niamey
 Nicosia
-Nicosia
 Nouakchott
 Nouméa
+Nukunonu
 Nukuʻalofa
+Nusantara
 Nuuk
 Oranjestad
 Oslo
@@ -187,18 +171,23 @@ Paramaribo
 Paris
 Philipsburg
 Phnom Penh
+Plymouth
 Podgorica
 Port Louis
 Port Moresby
 Port of Spain
 Port Vila
 Port-au-Prince
+Porto-Novo
 Prague
 Praia
+Pretoria
 Pristina
+Putrajaya
 Pyongyang
 Quito
 Rabat
+Ramallah
 Reykjavík
 Riga
 Riyadh
@@ -211,15 +200,16 @@ San José
 San Juan
 San Marino
 San Salvador
+Sanaa
 Santiago
 Santo Domingo
-São Tomé
 Sarajevo
 Seoul
 Singapore
 Skopje
 Sofia
 South Tarawa
+Sri Jayawardenepura Kotte
 St. George's
 St. Helier
 St. John's[15][16]
@@ -227,27 +217,30 @@ St. Peter Port
 St. Pierre
 Stanley
 Stockholm
+Sucre
 Sukhumi
 Suva
+São Tomé
 Taipei
 Tallinn
 Tashkent
 Tbilisi
 Tegucigalpa
-Comayagüela
 Tehran
+The Hague
+The Valley
 Thimphu
+Tifariti
 Tirana
 Tiraspol
 Tokyo
-Tórshavn
 Tripoli
 Tskhinvali
 Tunis
+Tórshavn
 Ulaanbaatar
 Vaduz
 Valletta
-The Valley
 Vatican City
 Victoria
 Vienna
@@ -259,6 +252,7 @@ Wellington
 West Island
 Willemstad
 Windhoek
+Yamoussoukro
 Yaoundé
 Yaren
 Yerevan

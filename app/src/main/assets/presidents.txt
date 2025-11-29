@@ -1,45 +1,45 @@
-George Washington 
-John Adams 
-Thomas Jefferson 
-James Madison 
-James Monroe 
-John Quincy Adams 
-Andrew Jackson 
-Martin Van Buren 
-William Henry Harrison 
-John Tyler 
-James K. Polk 
-Zachary Taylor 
-Millard Fillmore 
-Franklin Pierce 
-James Buchanan 
-Abraham Lincoln 
-Andrew Johnson 
-Ulysses S. Grant 
-Rutherford B. Hayes 
-James A. Garfield 
-Chester A. Arthur 
-Grover Cleveland 
-Benjamin Harrison 
-William McKinley 
-Theodore Roosevelt 
-William Howard Taft 
-Woodrow Wilson 
-Warren G. Harding 
-Calvin Coolidge 
-Herbert Hoover 
-Franklin D. Roosevelt 
-Harry S. Truman 
-Dwight D. Eisenhower 
-John F. Kennedy 
-Lyndon B. Johnson 
-Richard Nixon 
-Gerald Ford 
-Jimmy Carter 
-Ronald Reagan 
-George H. W. Bush 
-Bill Clinton 
-George W. Bush 
-Barack Obama 
-Donald Trump 
-Joe Biden 
+Abraham Lincoln
+Andrew Jackson
+Andrew Johnson
+Barack Obama
+Benjamin Harrison
+Bill Clinton
+Calvin Coolidge
+Chester A. Arthur
+Donald Trump
+Dwight D. Eisenhower
+Franklin D. Roosevelt
+Franklin Pierce
+George H. W. Bush
+George W. Bush
+George Washington
+Gerald Ford
+Grover Cleveland
+Harry S. Truman
+Herbert Hoover
+James A. Garfield
+James Buchanan
+James K. Polk
+James Madison
+James Monroe
+Jimmy Carter
+Joe Biden
+John Adams
+John F. Kennedy
+John Quincy Adams
+John Tyler
+Lyndon B. Johnson
+Martin Van Buren
+Millard Fillmore
+Richard Nixon
+Ronald Reagan
+Rutherford B. Hayes
+Theodore Roosevelt
+Thomas Jefferson
+Ulysses S. Grant
+Warren G. Harding
+William Henry Harrison
+William Howard Taft
+William McKinley
+Woodrow Wilson
+Zachary Taylor

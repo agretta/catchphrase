@@ -26,6 +26,11 @@
         "title": "Celebrities",
         "fileName": "celebs.txt",
         "description": "Actors, Musicians, and Other Celebrities"
+      },
+      {
+        "title": "Dieties & Religious Figures",
+        "fileName": "dieties.txt",
+        "description": "Dieties & Religious Figures"
       }
     ]
   },
@@ -71,6 +76,11 @@
         "title": "Books",
         "fileName": "100books.txt",
         "description": "Top 100 Books"
+      },
+      {
+        "title": "Books",
+        "fileName": "books.txt",
+        "description": "Books"
       },
       {
         "title": "Movies",
@@ -121,6 +131,11 @@
         "title": "Vehicles",
         "fileName": "vehicles.txt",
         "description": "Cars, Aircraft, and Other Vehicles"
+      },
+      {
+        "title": "Weather",
+        "fileName": "weather.txt",
+        "description": "Weather Phenomena"
       }
     ]
   },
@@ -146,6 +161,11 @@
         "title": "Jobs",
         "fileName": "vocations.txt",
         "description": "Jobs and Occupations"
+      },
+      {
+        "title": "Hobbies",
+        "fileName": "hobbies.txt",
+        "description": "Hobbies and Pastimes"
       }
     ]
   },

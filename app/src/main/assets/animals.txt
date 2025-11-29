@@ -1,441 +1,380 @@
-Dog
-Cat
-Horse
-Cow
-Pig
-Sheep
-Goat
-Chicken
-Duck
-Goose
-Turkey
-Rabbit
-Hamster
-Guinea Pig
-Rat
-Mouse
-Ferret
-Gerbil
-Hedgehog
-Chinchilla
-Deer
-Moose
-Elk
-Caribou
-Bison
-Buffalo
-Camel
-Llama
-Alpaca
-Donkey
-Mule
-Zebra
-Elephant
-Rhinoceros
-Hippopotamus
-Giraffe
-Lion
-Tiger
-Leopard
-Cheetah
-Jaguar
-Panther
-Cougar
-Bobcat
-Lynx
-Ocelot
-Serval
-Hyena
-Wolf
-Coyote
-Fox
-Jackal
-Bear
-Panda
-Koala
-Kangaroo
-Wallaby
-Opossum
-Wombat
-Tasmanian Devil
-Sloth
-Armadillo
-Anteater
-Porcupine
-Beaver
-Otter
-Weasel
-Badger
-Mink
-Skunk
-Raccoon
-Red Panda
-Elephant Seal
-Walrus
-Seal
-Sea Lion
-Dolphin
-Porpoise
-Whale
-Orca
-Manatee
-Dugong
-Shark
-Ray
-Manta Ray
-Eel
-Octopus
-Squid
-Cuttlefish
-Nautilus
-Lobster
-Crab
-Shrimp
-Prawn
-Krill
-Barnacle
-Coral
-Jellyfish
-Sea Anemone
-Starfish
-Sea Urchin
-Sand Dollar
-Clam
-Oyster
-Mussel
-Scallop
-Snail
-Slug
-Whelk
-Conch
-Nudibranch
-Frog
-Toad
-Salamander
-Newt
-Axolotl
-Crocodile
-Alligator
-Caiman
-Gharial
-Turtle
-Tortoise
-Terrapin
-Snake
-Lizard
-Gecko
-Chameleon
-Iguana
-Komodo Dragon
-Monitor Lizard
-Skink
-Anole
-Tuataras
-Fish
-Goldfish
-Betta
-Guppy
-Swordtail
-Angelfish
-Cichlid
-Carp
-Koi
-Salmon
-Trout
-Bass
-Catfish
-Pike
-Perch
-Sturgeon
-Tuna
-Mackerel
-Sardine
-Anchovy
-Herring
-Cod
-Halibut
-Flounder
-Sole
-Snapper
-Grouper
-Barracuda
-Marlin
-Swordfish
-Seahorse
-Pipefish
-Dragonet
-Blenny
-Gobies
-Flying Fish
-Mudskipper
-Clownfish
-Parrotfish
-Butterflyfish
-Wrasse
-Damselfish
-Hawkfish
-Moorish Idol
-Moray Eel
-Pufferfish
-Boxfish
-Lionfish
-Stonefish
-Scorpionfish
-Bird
-Eagle
-Hawk
-Falcon
-Owl
-Vulture
-Buzzard
-Kite
-Condor
-Crow
-Raven
-Magpie
-Jay
-Rook
-Sparrow
-Robin
-Blackbird
-Starling
-Bluebird
-Finch
-Canary
-Wren
-Swallow
-Swift
-Nightjar
-Woodpecker
-Kingfisher
-Hummingbird
-Parrot
-Macaw
-Cockatoo
-Budgerigar
-Lovebird
-Cockatiel
-Pigeon
-Dove
-Peacock
-Turkey Vulture
-Quail
-Pheasant
-Grouse
-Ptarmigan
-Guinea Fowl
-Ostrich
-Emu
-Cassowary
-Kiwi
-Penguin
-Seagull
-Pelican
-Cormorant
-Heron
-Stork
-Flamingo
-Ibis
-Crane
-Spoonbill
-Duck
-Goose
-Swan
-Loon
-Grebe
-Albatross
-Petrel
-Shearwater
-Frigatebird
-Booby
-Tropicbird
-Puffin
-Auk
-Tern
-Skua
-Egret
-Bittern
-Rail
-Coot
-Gallinule
-Plovers
-Sandpiper
-Curlew
-Avocet
-Oystercatcher
-Woodcock
-Lapwing
-King Penguin
-Adélie Penguin
-Emperor Penguin
-Bee
-Ant
-Wasp
-Hornet
-Termite
-Butterfly
-Moth
-Beetle
-Ladybug
-Firefly
-Dragonfly
-Damselfly
-Grasshopper
-Cricket
-Katydid
-Stick Insect
-Leaf Insect
-Praying Mantis
-Cockroach
-Earwig
-Lacewing
-Silverfish
-Flea
-Tick
-Louse
-Fly
-Mosquito
-Midge
-Gnat
-Housefly
-Fruit Fly
-Spider
-Scorpion
-Tick
-Mite
-Tarantula
-Black Widow
-Wolf Spider
-Jumping Spider
-Crab Spider
-Orb Weaver
-Daddy Longlegs
-Centipede
-Millipede
-Earthworm
-Leech
-Flatworm
-Roundworm
-Tapeworm
-Jellyfish
-Coral
-Sea Sponge
-Sea Cucumber
-Starfish
-Sand Dollar
-Sea Urchin
-Hydra
-Hydroid
-Sea Squirt
-Tunicate
-Lamprey
-Hagfish
 Aardvark
-Baboon
-Chimpanzee
-Gorilla
-Orangutan
-Bonobo
-Mandrill
-Lemur
-Tarsier
-Gibbon
-Macaque
-Capuchin
-Squirrel Monkey
-Howler Monkey
-Spider Monkey
-Tamarin
-Marmoset
-Human
-Platypus
-Echidna
-Shrew
-Mole
-Hedgehog
-Bat
-Flying Fox
-Colugo
-Tree Shrew
-Rabbitfish
-Mole Rat
-Prairie Dog
-Groundhog
-Squirrel
-Chipmunk
-Beaver
-Muskrat
-Vole
-Lemming
-Gerbil
-Agouti
-Capybara
-Cavy
-Porcupine
-Nutria
-Maned Wolf
 African Wild Dog
-Dingo
-Fennec Fox
-Arctic Fox
-Gray Fox
-Raccoon Dog
-Pangolin
-Tapir
-Okapi
-Wild Boar
-Warthog
+Albatross
+Alligator
+Alpaca
+Anaconda
+Anchovy
+Angelfish
+Anole
+Ant
+Anteater
 Antelope
-Gazelle
-Impala
-Springbok
-Kudu
-Eland
-Waterbuck
-Wildebeest
-Bighorn Sheep
-Mountain Goat
-Ibex
-Chamois
-Musk Ox
-Yak
-Saiga
-Addax
-Oryx
-Reindeer
-Moose
-Caribou
+Arctic Fox
 Armadillo
-Ocelot
-Margay
-Jaguarundi
-Serval
-Civet
-Genet
-Mongooses
-Meerkat
+Axolotl
 Aye-aye
-Kinkajou
-Coati
-Tarsier
-Lorises
-Slow Loris
-Galago
-Bushbaby
-Koala
+Baboon
+Badger
+Bald Eagle
 Bandicoot
+Barnacle
+Barracuda
+Bass
+Bat
+Bear
+Beaver
+Bee
+Beetle
+Beluga Whale
+Betta
+Bighorn Sheep
 Bilby
-Quokka
-Quoll
-Numbat
+Bird
+Bison
+Black Widow
+Blackbird
+Blue Tang
+Blue Whale
+Bluebird
+Bobcat
+Bonobo
+Buffalo
+Bushbaby
+Butterfly
+Buzzard
+Caiman
+Camel
+Canary
+Capuchin
+Capybara
+Caribou
+Carp
+Cassowary
+Cat
+Catfish
+Centipede
+Chameleon
+Cheetah
+Chicken
+Chimpanzee
+Chinchilla
+Chipmunk
+Clam
+Clownfish
+Coati
+Cockatiel
+Cockatoo
+Cockroach
+Cod
+Conch
+Condor
+Coot
+Coral
+Cougar
+Cow
+Coyote
+Crab
+Crab Spider
+Crane
+Cricket
+Crocodile
+Crow
+Cuttlefish
+Daddy Longlegs
+Damselfly
+Deer
+Dingo
+Dire Wolf
+Dodo
+Dog
+Dolphin
+Donkey
+Dove
+Dragonfly
+Duck
+Dugong
+Eagle
+Earthworm
+Earwig
 Echidna
+Eel
+Egret
+Elephant
+Elephant Seal
+Elk
+Emperor Penguin
+Emu
+Falcon
+Fennec Fox
+Ferret
+Finch
+Firefly
+Fish
+Flamingo
+Flatworm
+Flea
+Flounder
+Fly
+Flying Fish
+Flying Fox
+Fox
+Frog
+Fruit Fly
+Galápagos Tortoise
+Gazelle
+Gecko
+Gerbil
+Gharial
+Giant Ground Sloth
+Gibbon
+Giraffe
+Gnat
+Goat
+Goldfish
+Goose
+Gorilla
+Grasshopper
+Gray Fox
+Great Auk
+Groundhog
+Grouper
+Grouse
+Guinea Fowl
+Guinea Pig
+Guppy
+Hagfish
+Halibut
+Hamster
+Harp Seal
+Hawk
+Hedgehog
+Heron
+Herring
+Hippopotamus
+Hornet
+Horse
+Housefly
+Howler Monkey
+Human
+Hummingbird
+Humpback Whale
+Hydra
+Hyena
+Ibex
+Ibis
+Iguana
+Iguanodon
+Impala
+Jackal
+Jaguar
+Jay
+Jellyfish
+Jumping Spider
+Kangaroo
+Katydid
+Kingfisher
+Kite
+Kiwi
+Koala
+Koi
+Komodo Dragon
+Krill
+Kudu
+Ladybug
+Lamprey
+Leaf Insect
+Leech
+Lemming
+Lemur
+Leopard
+Lion
+Lionfish
+Lizard
+Llama
+Lobster
+Loon
+Louse
+Lovebird
+Lynx
+Macaque
+Macaw
+Mackerel
+Magpie
+Manatee
+Mandrill
+Maned Wolf
+Manta Ray
+Margay
+Marlin
+Marmoset
+Meerkat
+Megalodon
+Midge
+Millipede
+Mink
+Mite
+Moa
+Mole
+Mole Rat
+Monitor Lizard
+Moose
+Moray Eel
+Mosquito
+Moth
+Mountain Goat
+Mountain Lion (distinct from cougar in some lists)
+Mouse
+Mudskipper
+Mule
+Musk Ox
+Muskrat
+Mussel
+Narwhal
+Nautilus
+Newt
+Nudibranch
+Ocelot
+Octopus
+Okapi
+Opossum
+Orangutan
+Orb Weaver
+Orca
+Ostrich
+Otter
+Owl
+Oyster
+Panda
+Pangolin
+Panther
+Parrot
+Parrotfish
+Passenger Pigeon
+Peacock
+Pelican
+Penguin
+Perch
+Pheasant
+Pig
+Pigeon
+Pike
+Platypus
+Porcupine
+Porpoise
+Prairie Dog
+Prawn
+Praying Mantis
+Proboscis Monkey
+Pterodactyl
+Pufferfish
+Puffin
+Quail
+Quokka
+Rabbit
+Raccoon
+Raccoon Dog
+Rail
+Rat
+Rattlesnake
+Raven
+Ray
+Red Panda
+Red-Tailed Hawk
+Reindeer
+Rhinoceros
+Robin
+Rook
+Roundworm
+Saber-Toothed Tiger
+Salamander
+Salmon
+Sand Dollar
+Sardine
+Scallop
+Scorpion
+Sea Anemone
+Sea Cucumber
+Sea Lion
+Sea Otter
+Sea Sponge
+Sea Urchin
+Seagull
+Seahorse
+Seal
+Serval
+Shark
+Sheep
+Shrew
+Shrimp
+Silverfish
+Skink
+Skunk
+Sloth
+Slug
+Snail
+Snake
+Snapper
+Snow Leopard
+Snowy Owl
+Sparrow
+Sperm Whale
+Spider
+Spider Monkey
+Spinosaurus
+Spoonbill
+Springbok
+Squid
+Squirrel
+Squirrel Monkey
+Starfish
+Starling
+Stegosaurus
+Stick Insect
+Stork
+Sturgeon
+Swallow
+Swan
+Swift
+Swordfish
+Swordtail
+T. Rex
+Tapeworm
+Tapir
+Tarantula
+Tardigrade
+Tarsier
+Tasmanian Devil
 Tasmanian Tiger
-Dodo 
-Passenger Pigeon 
-Megalodon 
-Woolly Mammoth 
-Saber-Toothed Tiger 
-Great Auk 
-Giant Ground Sloth 
-Moa 
-Tasmanian Wolf 
+Tasmanian Wolf
+Termite
+Tern
+Tick
+Tiger
+Toad
+Tortoise
+Triceratops
+Trout
+Tuna
+Turkey
+Turkey Vulture
+Turtle
+Vole
+Vulture
+Wallaby
+Walrus
+Warthog
+Wasp
+Weasel
+Whale
+Whelk
+Wild Boar
+Wildebeest
+Wolf
+Wolf Spider
+Wombat
+Woodpecker
+Woolly Mammoth
+Wren
+Yak
+Zebra
